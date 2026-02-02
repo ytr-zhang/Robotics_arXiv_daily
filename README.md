@@ -9,6 +9,10 @@
     <li><a href=#vla>VLA</a></li>
     <li><a href=#humanoid>Humanoid</a></li>
     <li><a href=#dexterous>Dexterous</a></li>
+    <li><a href=#humanoid-locomotion>Humanoid-Locomotion</a></li>
+    <li><a href=#vln-navigation>VLN-Navigation</a></li>
+    <li><a href=#vla-navigation>VLA-Navigation</a></li>
+    <li><a href=#semantic-slam>Semantic-SLAM</a></li>
   </ol>
 </details>
 
@@ -5888,6 +5892,96 @@
 |**2019-01-23**|**Learning Dexterous In-Hand Manipulation**|Wojciech Zaremba Team|[1808.00177](http://arxiv.org/abs/1808.00177)|null|
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
+
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+
+## Humanoid-Locomotion
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-01-29**|**Towards Bridging the Gap between Large-Scale Pretraining and Efficient Finetuning for Humanoid Control**|Jingwen Zhang Team|[2601.21363](http://arxiv.org/abs/2601.21363)|null|
+|**2026-01-28**|**GPO: Growing Policy Optimization for Legged Robot Locomotion and Whole-Body Control**|Guillaume Sartoretti Team|[2601.20668](http://arxiv.org/abs/2601.20668)|null|
+|**2026-01-22**|**Efficiently Learning Robust Torque-based Locomotion Through Reinforcement with Model-Based Supervision**|Dongheui Lee Team|[2601.16109](http://arxiv.org/abs/2601.16109)|null|
+|**2026-01-13**|**AME-2: Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding**|Marco Hutter Team|[2601.08485](http://arxiv.org/abs/2601.08485)|null|
+|**2026-01-09**|**Walk the PLANC: Physics-Guided RL for Agile Humanoid Locomotion on Constrained Footholds**|Aaron D. Ames Team|[2601.06286](http://arxiv.org/abs/2601.06286)|null|
+|**2026-01-07**|**Locomotion Beyond Feet**|C. Karen Liu Team|[2601.03607](http://arxiv.org/abs/2601.03607)|**[link](https://locomotion-beyond-feet.github.io/)**|
+|**2025-12-31**|**Dynamic Policy Learning for Legged Robot with Simplified Model Pretraining and Model Homotopy Transfer**|Hae-Won Park Team|[2512.24698](http://arxiv.org/abs/2512.24698)|null|
+|**2026-01-04**|**Do You Have Freestyle? Expressive Humanoid Locomotion via Audio Control**|Shanghang Zhang Team|[2512.23650](http://arxiv.org/abs/2512.23650)|null|
+|**2026-01-04**|**RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion**|Shanghang Zhang Team|[2512.23649](http://arxiv.org/abs/2512.23649)|null|
+|**2025-12-23**|**Pneumatic bladder links with wide range of motion joints for articulated inflatable robots**|Ryuma Niiyama Team|[2512.20322](http://arxiv.org/abs/2512.20322)|null|
+|**2025-12-18**|**E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion**|Dimitrios Kanoulas Team|[2512.16446](http://arxiv.org/abs/2512.16446)|null|
+|**2025-12-15**|**Learning Terrain Aware Bipedal Locomotion via Reduced Dimensional Perceptual Representations**|Ayonga Hereid Team|[2512.12993](http://arxiv.org/abs/2512.12993)|null|
+|**2025-12-08**|**Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction**|Houqiang Li Team|[2512.07464](http://arxiv.org/abs/2512.07464)|null|
+|**2025-12-03**|**Variable-Impedance Muscle Coordination under Slow-Rate Control Frequencies and Limited Observation Conditions Evaluated through Legged Locomotion**|Jun Morimoto Team|[2512.03459](http://arxiv.org/abs/2512.03459)|null|
+|**2025-12-01**|**Learning Sim-to-Real Humanoid Locomotion in 15 Minutes**|Pieter Abbeel Team|[2512.01996](http://arxiv.org/abs/2512.01996)|**[link](https://younggyo.me/fastsac-humanoid)**|
+|**2025-11-30**|**H-Zero: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer**|Weinan Zhang Team|[2512.00971](http://arxiv.org/abs/2512.00971)|null|
+|**2025-11-25**|**A Hierarchical Framework for Humanoid Locomotion with Supernumerary Limbs**|Bowen Zhi Team|[2512.00077](http://arxiv.org/abs/2512.00077)|null|
+|**2025-11-28**|**Commanding Humanoid by Free-form Language: A Large Language Action Model with Unified Motion Vocabulary**|Jingya Wang Team|[2511.22963](http://arxiv.org/abs/2511.22963)|**[link](https://humanoidlla.github.io/)**|
+|**2025-11-27**|**Beyond Egocentric Limits: Multi-View Depth-Based Learning for Robust Quadrupedal Locomotion**|Wael Suleiman Team|[2511.22744](http://arxiv.org/abs/2511.22744)|**[link](https://anonymous.4open.science/r/multiview-parkour-6FB8)**|
+|**2026-01-29**|**HAFO: A Force-Adaptive Control Framework for Humanoid Robots in Intense Interaction Environments**|Bin He Team|[2511.20275](http://arxiv.org/abs/2511.20275)|null|
+
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+
+## VLN-Navigation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-01-29**|**Dynamic Topology Awareness: Breaking the Granularity Rigidity in Vision-Language Navigation**|Xiaoming Wang Team|[2601.21751](http://arxiv.org/abs/2601.21751)|null|
+|**2026-01-26**|**\textsc{NaVIDA}: Vision-Language Navigation with Inverse Dynamics Augmentation**|Feng Zheng Team|[2601.18188](http://arxiv.org/abs/2601.18188)|null|
+|**2026-01-23**|**FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation**|Yonggang Qi Team|[2601.13976](http://arxiv.org/abs/2601.13976)|null|
+|**2026-01-14**|**Towards Open Environments and Instructions: General Vision-Language Navigation via Fast-Slow Interactive Reasoning**|Yahong Han Team|[2601.09111](http://arxiv.org/abs/2601.09111)|null|
+|**2026-01-11**|**Residual Cross-Modal Fusion Networks for Audio-Visual Navigation**|Bin Ren Team|[2601.08868](http://arxiv.org/abs/2601.08868)|null|
+|**2026-01-13**|**VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory**|Junzhi Yu Team|[2601.08665](http://arxiv.org/abs/2601.08665)|**[link](https://wsakobe.github.io/VLingNav-web/)**|
+|**2026-01-07**|**AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions**|Renxin Zhong Team|[2601.03707](http://arxiv.org/abs/2601.03707)|null|
+|**2026-01-19**|**LocoScooter: Designing a Stationary Scooter-Based Locomotion System for Navigation in Virtual Reality**|Ge Lin Kan Team|[2601.02167](http://arxiv.org/abs/2601.02167)|null|
+|**2026-01-05**|**CausalNav: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios**|Xueqian Wang Team|[2601.01872](http://arxiv.org/abs/2601.01872)|null|
+|**2026-01-06**|**VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents**|Qi Wu Team|[2512.24851](http://arxiv.org/abs/2512.24851)|null|
+|**2026-01-23**|**VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs**|Jiangmiao Pang Team|[2512.22342](http://arxiv.org/abs/2512.22342)|null|
+|**2025-12-25**|**AstraNav-World: World Model for Foresight Control and Consistency**|Shanghang Zhang Team|[2512.21714](http://arxiv.org/abs/2512.21714)|null|
+|**2025-12-25**|**AstraNav-Memory: Contexts Compression for Long Memory**|Mu Xu Team|[2512.21627](http://arxiv.org/abs/2512.21627)|null|
+|**2025-12-24**|**ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments**|Yue Wang Team|[2512.20940](http://arxiv.org/abs/2512.20940)|null|
+|**2025-12-23**|**TongSIM: A General Platform for Simulating Intelligent Machines**|Zhenliang Zhang Team|[2512.20206](http://arxiv.org/abs/2512.20206)|null|
+|**2025-12-22**|**IndoorUAV: Benchmarking Vision-Language UAV Navigation in Continuous Indoor Environments**|Zhouhui Lian Team|[2512.19024](http://arxiv.org/abs/2512.19024)|null|
+|**2025-12-22**|**VLNVerse: A Benchmark for Vision-Language Navigation with Versatile, Embodied, Realistic Simulation and Evaluation**|Qi Wu Team|[2512.19021](http://arxiv.org/abs/2512.19021)|null|
+|**2025-12-19**|**Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation**|Eric Sax Team|[2512.18028](http://arxiv.org/abs/2512.18028)|null|
+|**2026-01-08**|**ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination**|Changyin Sun Team|[2512.17435](http://arxiv.org/abs/2512.17435)|null|
+|**2025-12-17**|**HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles**|Renjing Xu Team|[2512.15047](http://arxiv.org/abs/2512.15047)|null|
+
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+
+## VLA-Navigation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-08-14**|**CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model**|Hao Dong Team|[2508.10416](http://arxiv.org/abs/2508.10416)|null|
+|**2024-07-12**|**Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**|Jie Tan Team|[2407.07775](http://arxiv.org/abs/2407.07775)|null|
+
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
+
+## Semantic-SLAM
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2026-01-09**|**FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time**|Simon Hadfield Team|[2601.05738](http://arxiv.org/abs/2601.05738)|null|
+|**2025-12-01**|**KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM**|Sergey Kolyubin Team|[2512.01889](http://arxiv.org/abs/2512.01889)|null|
+|**2025-11-28**|**Taming the Light: Illumination-Invariant Semantic 3DGS-SLAM**|Zhenhong Jia Team|[2511.22968](http://arxiv.org/abs/2511.22968)|null|
+|**2025-11-27**|**Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM**|Anna Gelencsér-Horváth Team|[2511.16282](http://arxiv.org/abs/2511.16282)|null|
+|**2025-10-01**|**Semantic Visual Simultaneous Localization and Mapping: A Survey on State of the Art, Challenges, and Future Directions**|Nak Young Chong Team|[2510.00783](http://arxiv.org/abs/2510.00783)|null|
+|**2025-09-18**|**Human Interaction for Collaborative Semantic SLAM using Extended Reality**|Jose Luis Sanchez-Lopez Team|[2509.14949](http://arxiv.org/abs/2509.14949)|null|
+|**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|Gert Kootstra Team|[2507.12093](http://arxiv.org/abs/2507.12093)|null|
+|**2025-12-03**|**GS4: Generalizable Sparse Splatting Semantic SLAM**|Li Fuxin Team|[2506.06517](http://arxiv.org/abs/2506.06517)|null|
+|**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Yingchun Fan Team|[2506.02736](http://arxiv.org/abs/2506.02736)|null|
+|**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|François Goulette Team|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
+|**2025-05-16**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Changyin Sun Team|[2504.19409](http://arxiv.org/abs/2504.19409)|null|
+|**2025-04-01**|**Semantic SLAM with Rolling-Shutter Cameras and Low-Precision INS in Outdoor Environments**|Haoyi Xiong Team|[2504.01997](http://arxiv.org/abs/2504.01997)|null|
+|**2025-03-03**|**OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**|Mengyin Fu Team|[2503.01646](http://arxiv.org/abs/2503.01646)|null|
+|**2025-07-09**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Hamid Rezatofighi Team|[2502.14931](http://arxiv.org/abs/2502.14931)|null|
+|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Tongliang Liu Team|[2501.00352](http://arxiv.org/abs/2501.00352)|null|
+|**2025-07-11**|**Towards Autonomous Indoor Parking: A Globally Consistent Semantic SLAM System and A Semantic Localization Subsystem**|Hesheng Wang Team|[2410.12169](http://arxiv.org/abs/2410.12169)|null|
+|**2025-03-10**|**Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting**|Hamid Rezatofighi Team|[2409.12518](http://arxiv.org/abs/2409.12518)|**[link](https://github.com/LeeBY68/Hier-SLAM)**|
+|**2024-09-02**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Giovanni Beltrame Team|[2408.14726](http://arxiv.org/abs/2408.14726)|null|
+|**2025-10-03**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Vijay Kumar Team|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
+|**2024-06-09**|**MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**|Iro Armeni Team|[2406.05849](http://arxiv.org/abs/2406.05849)|null|
 
 <p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
 
