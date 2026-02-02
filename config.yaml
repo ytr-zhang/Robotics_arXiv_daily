@@ -37,7 +37,7 @@ keywords:
         filters: ["Vision-Language Navigation", "VLN", "Embodied Navigation"]
     "VLA-Navigation":
         filters: ["Vision-Language-Action Navigation", "VLA Navigation"]
-     "Dexterous":
+    "Dexterous":
         filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous"]
     "Semantic-SLAM":
         filters: ["Semantic SLAM", "VLM SLAM", "Language-driven SLAM", "Open-vocabulary SLAM"]
