@@ -9,7 +9,7 @@ max_results: 20
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
+publish_wechat: True
 
 # file paths
 json_readme_path: './docs/cv-arxiv-daily.json'
@@ -33,3 +33,11 @@ keywords:
         filters: ["Humanoid Robot", "Humanoid"]
     "Dexterous":
         filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous"]
+    "Humanoid-Locomotion":
+        filters: ["Humanoid Locomotion", "Bipedal Locomotion", "Legged Locomotion"]
+    "VLN-Navigation":
+        filters: ["Vision-Language Navigation", "VLN", "Embodied Navigation"]
+    "VLA-Navigation":
+        filters: ["Vision-Language-Action Navigation", "VLA Navigation"]
+    "Semantic-SLAM":
+        filters: ["Semantic SLAM", "VLM SLAM", "Language-driven SLAM", "Open-vocabulary SLAM"]
