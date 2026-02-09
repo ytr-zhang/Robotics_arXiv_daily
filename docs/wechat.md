@@ -18,6 +18,14 @@
 
 ## Manipulation
 
+- 2026-02-06, **SURE: Safe Uncertainty-Aware Robot-Environment Interaction using Trajectory Optimization**, Majid Khadiv Team, Paper: [http://arxiv.org/abs/2602.06864](http://arxiv.org/abs/2602.06864)
+- 2026-02-06, **RAPID: Reconfigurable, Adaptive Platform for Iterative Design**, Jia Liu Team, Paper: [http://arxiv.org/abs/2602.06653](http://arxiv.org/abs/2602.06653)
+- 2026-02-06, **Force Generative Imitation Learning: Bridging Position Trajectory and Force Commands through Control Technique**, Toshiaki Tsuji Team, Paper: [http://arxiv.org/abs/2602.06620](http://arxiv.org/abs/2602.06620)
+- 2026-02-06, **The Law of Task-Achieving Body Motion: Axiomatizing Success of Robot Manipulation Actions**, Michael Beetz Team, Paper: [http://arxiv.org/abs/2602.06572](http://arxiv.org/abs/2602.06572)
+- 2026-02-06, **Beyond the Majority: Long-tail Imitation Learning for Robotic Manipulation**, Heng Tao Shen Team, Paper: [http://arxiv.org/abs/2602.06512](http://arxiv.org/abs/2602.06512)
+- 2026-02-06, **World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy**, Mike Zheng Shou Team, Paper: [http://arxiv.org/abs/2602.06508](http://arxiv.org/abs/2602.06508)
+- 2026-02-06, **Nipping the Drift in the Bud: Retrospective Rectification for Robust Vision-Language Navigation**, Weiying Xie Team, Paper: [http://arxiv.org/abs/2602.06356](http://arxiv.org/abs/2602.06356)
+- 2026-02-06, **A High-Fidelity Robotic Manipulator Teleoperation Framework for Human-Centered Augmented Reality Evaluation**, Tian Guo Team, Paper: [http://arxiv.org/abs/2602.06273](http://arxiv.org/abs/2602.06273)
 - 2026-02-05, **TaSA: Two-Phased Deep Predictive Learning of Tactile Sensory Attenuation for Improving In-Grasp Manipulation**, Shigeki Sugano Team, Paper: [http://arxiv.org/abs/2602.05468](http://arxiv.org/abs/2602.05468)
 - 2026-02-05, **MobileManiBench: Simplifying Model Verification for Mobile Manipulation**, Baining Guo Team, Paper: [http://arxiv.org/abs/2602.05233](http://arxiv.org/abs/2602.05233)
 - 2026-02-04, **VISTA: Enhancing Visual Conditioning via Track-Following Preference Optimization in Vision-Language-Action Models**, Dongdong Chen Team, Paper: [http://arxiv.org/abs/2602.05049](http://arxiv.org/abs/2602.05049), Code: **[https://vista-vla.github.io/](https://vista-vla.github.io/)**
@@ -80,6 +88,18 @@
 
 ## VLM
 
+- 2026-02-06, **POP: Online Structural Pruning Enables Efficient Inference of Large Foundation Models**, Joo-Young Kim Team, Paper: [http://arxiv.org/abs/2602.06822](http://arxiv.org/abs/2602.06822)
+- 2026-02-06, **Same Answer, Different Representations: Hidden instability in VLMs**, Pasquale Minervini Team, Paper: [http://arxiv.org/abs/2602.06652](http://arxiv.org/abs/2602.06652)
+- 2026-02-06, **CauCLIP: Bridging the Sim-to-Real Gap in Surgical Video Understanding via Causality-Inspired Vision-Language Modeling**, Cheng Xue Team, Paper: [http://arxiv.org/abs/2602.06619](http://arxiv.org/abs/2602.06619)
+- 2026-02-06, **SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLMs**, Mattia Rigotti Team, Paper: [http://arxiv.org/abs/2602.06566](http://arxiv.org/abs/2602.06566)
+- 2026-02-06, **Universal Anti-forensics Attack against Image Forgery Detection via Multi-modal Guidance**, Anastasia Antsiferova Team, Paper: [http://arxiv.org/abs/2602.06530](http://arxiv.org/abs/2602.06530)
+- 2026-02-06, **FloorplanVLM: A Vision-Language Model for Floorplan Vectorization**, Yue Yang Team, Paper: [http://arxiv.org/abs/2602.06507](http://arxiv.org/abs/2602.06507)
+- 2026-02-06, **MeDocVL: A Visual Language Model for Medical Document Understanding and Parsing**, Hong Li Team, Paper: [http://arxiv.org/abs/2602.06402](http://arxiv.org/abs/2602.06402)
+- 2026-02-06, **POINTS-GUI-G: GUI-Grounding Journey**, Jie Zhou Team, Paper: [http://arxiv.org/abs/2602.06391](http://arxiv.org/abs/2602.06391)
+- 2026-02-05, **Cross-Modal Redundancy and the Geometry of Vision-Language Embeddings**, Agustin Picard Team, Paper: [http://arxiv.org/abs/2602.06218](http://arxiv.org/abs/2602.06218)
+- 2026-02-05, **DeDPO: Debiased Direct Preference Optimization for Diffusion Models**, Ramin Zabih Team, Paper: [http://arxiv.org/abs/2602.06195](http://arxiv.org/abs/2602.06195)
+- 2026-02-05, **PhenoLIP: Integrating Phenotype Ontology Knowledge into Medical Vision-Language Pretraining**, Weidi Xie Team, Paper: [http://arxiv.org/abs/2602.06184](http://arxiv.org/abs/2602.06184)
+- 2026-02-05, **Compressing LLMs with MoP: Mixture of Pruners**, Artur Jordao Team, Paper: [http://arxiv.org/abs/2602.06127](http://arxiv.org/abs/2602.06127), Code: **[https://github.com/c2d-usp/Efficient-LLMs-with-MoP](https://github.com/c2d-usp/Efficient-LLMs-with-MoP)**
 - 2026-02-05, **Can vision language models learn intuitive physics from interaction?**, Eric Schulz Team, Paper: [http://arxiv.org/abs/2602.06033](http://arxiv.org/abs/2602.06033)
 - 2026-02-05, **GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?**, Jiaqi Wang Team, Paper: [http://arxiv.org/abs/2602.06013](http://arxiv.org/abs/2602.06013), Code: **[https://genarena.github.io/](https://genarena.github.io/)**
 - 2026-02-05, **Focus-Scan-Refine: From Human Visual Perception to Efficient Visual Token Pruning**, Xianming Liu Team, Paper: [http://arxiv.org/abs/2602.05809](http://arxiv.org/abs/2602.05809)
@@ -183,6 +203,12 @@
 
 ## VLA
 
+- 2026-02-06, **Force Generative Imitation Learning: Bridging Position Trajectory and Force Commands through Control Technique**, Toshiaki Tsuji Team, Paper: [http://arxiv.org/abs/2602.06620](http://arxiv.org/abs/2602.06620)
+- 2026-02-06, **Think Proprioceptively: Embodied Visual Reasoning for VLA Manipulation**, Guodong Guo Team, Paper: [http://arxiv.org/abs/2602.06575](http://arxiv.org/abs/2602.06575)
+- 2026-02-06, **LIBERO-X: Robustness Litmus for Vision-Language-Action Models**, Xinmin Liu Team, Paper: [http://arxiv.org/abs/2602.06556](http://arxiv.org/abs/2602.06556)
+- 2026-02-06, **DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving**, Long Chen Team, Paper: [http://arxiv.org/abs/2602.06521](http://arxiv.org/abs/2602.06521)
+- 2026-02-06, **World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy**, Mike Zheng Shou Team, Paper: [http://arxiv.org/abs/2602.06508](http://arxiv.org/abs/2602.06508)
+- 2026-02-06, **Action Hallucination in Generative Visual-Language-Action Models**, Eugene Lim Team, Paper: [http://arxiv.org/abs/2602.06339](http://arxiv.org/abs/2602.06339)
 - 2026-02-05, **RL-VLA $^3$ : Reinforcement Learning VLA Accelerating via Full Asynchronism**, Junwu Xiong Team, Paper: [http://arxiv.org/abs/2602.05765](http://arxiv.org/abs/2602.05765)
 - 2026-02-05, **Benchmarking Affordance Generalization with BusyBox**, Galen Mullins Team, Paper: [http://arxiv.org/abs/2602.05441](http://arxiv.org/abs/2602.05441)
 - 2026-02-05, **RoboPaint: From Human Demonstration to Any Robot and Any View**, Zhengxue Cheng Team, Paper: [http://arxiv.org/abs/2602.05325](http://arxiv.org/abs/2602.05325)
@@ -242,6 +268,7 @@
 
 ## Humanoid
 
+- 2026-02-06, **ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking**, Yao Su Team, Paper: [http://arxiv.org/abs/2602.06445](http://arxiv.org/abs/2602.06445)
 - 2026-02-05, **A Hybrid Autoencoder for Robust Heightmap Generation from Fused Lidar and Depth Data for Humanoid Robot Locomotion**, Simon F. G. Ehlers Team, Paper: [http://arxiv.org/abs/2602.05855](http://arxiv.org/abs/2602.05855)
 - 2026-02-05, **Scalable and General Whole-Body Control for Cross-Humanoid Locomotion**, Weinan Zhang Team, Paper: [http://arxiv.org/abs/2602.05791](http://arxiv.org/abs/2602.05791)
 - 2026-02-05, **TOLEBI: Learning Fault-Tolerant Bipedal Locomotion via Online Status Estimation and Fallibility Rewards**, Jaeheung Park Team, Paper: [http://arxiv.org/abs/2602.05596](http://arxiv.org/abs/2602.05596)
@@ -282,6 +309,9 @@
 
 ## Humanoid-Locomotion
 
+- 2026-02-06, **ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking**, Yao Su Team, Paper: [http://arxiv.org/abs/2602.06445](http://arxiv.org/abs/2602.06445)
+- 2026-02-06, **Now You See That: Learning End-to-End Humanoid Locomotion from Raw Pixels**, Zongwu Xie Team, Paper: [http://arxiv.org/abs/2602.06382](http://arxiv.org/abs/2602.06382)
+- 2026-02-06, **HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation**, Yue Gao Team, Paper: [http://arxiv.org/abs/2602.06341](http://arxiv.org/abs/2602.06341)
 - 2026-02-05, **Scalable and General Whole-Body Control for Cross-Humanoid Locomotion**, Weinan Zhang Team, Paper: [http://arxiv.org/abs/2602.05791](http://arxiv.org/abs/2602.05791)
 - 2026-02-05, **TOLEBI: Learning Fault-Tolerant Bipedal Locomotion via Online Status Estimation and Fallibility Rewards**, Jaeheung Park Team, Paper: [http://arxiv.org/abs/2602.05596](http://arxiv.org/abs/2602.05596)
 - 2026-02-03, **CMR: Contractive Mapping Embeddings for Robust Humanoid Locomotion on Unstructured Terrains**, Chao Huang Team, Paper: [http://arxiv.org/abs/2602.03511](http://arxiv.org/abs/2602.03511)
@@ -312,6 +342,8 @@
 
 ## VLN-Navigation
 
+- 2026-02-06, **Bridging the Indoor-Outdoor Gap: Vision-Centric Instruction-Guided Embodied Navigation for the Last Meters**, Mu Xu Team, Paper: [http://arxiv.org/abs/2602.06427](http://arxiv.org/abs/2602.06427)
+- 2026-02-06, **Nipping the Drift in the Bud: Retrospective Rectification for Robust Vision-Language Navigation**, Weiying Xie Team, Paper: [http://arxiv.org/abs/2602.06356](http://arxiv.org/abs/2602.06356)
 - 2026-02-05, **Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation**, Hongyang Li Team, Paper: [http://arxiv.org/abs/2602.05827](http://arxiv.org/abs/2602.05827)
 - 2026-02-05, **Allocentric Perceiver: Disentangling Allocentric Reasoning from Egocentric Visual Priors via Frame Instantiation**, Weiming Zhang Team, Paper: [http://arxiv.org/abs/2602.05789](http://arxiv.org/abs/2602.05789)
 - 2026-02-02, **LangMap: A Hierarchical Benchmark for Open-Vocabulary Goal Navigation**, Anton van den Hengel Team, Paper: [http://arxiv.org/abs/2602.02220](http://arxiv.org/abs/2602.02220)
