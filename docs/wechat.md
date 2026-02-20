@@ -18,9 +18,13 @@
 
 ## Manipulation
 
+- 2026-02-19, **IRIS: Learning-Driven Task-Specific Cinema Robot Arm for Visuomotor Motion Control**, Ali Bereyhi Team, Paper: [http://arxiv.org/abs/2602.17537](http://arxiv.org/abs/2602.17537)
+- 2026-02-19, **Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success**, Torsten Sattler Team, Paper: [http://arxiv.org/abs/2602.17101](http://arxiv.org/abs/2602.17101)
+- 2026-02-18, **SparTa: Sparse Graphical Task Models from a Handful of Demonstrations**, Abhinav Valada Team, Paper: [http://arxiv.org/abs/2602.16911](http://arxiv.org/abs/2602.16911)
+- 2026-02-18, **MALLVI: a multi agent framework for integrated generalized robotics manipulation**, Babak Khalaj Team, Paper: [http://arxiv.org/abs/2602.16898](http://arxiv.org/abs/2602.16898)
 - 2026-02-18, **Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**, Saurabh Gupta Team, Paper: [http://arxiv.org/abs/2602.16705](http://arxiv.org/abs/2602.16705), Code: **[https://hero-humanoid.github.io/](https://hero-humanoid.github.io/)**
 - 2026-02-18, **VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety**, Stella X. Yu Team, Paper: [http://arxiv.org/abs/2602.16511](http://arxiv.org/abs/2602.16511)
-- 2026-02-18, **RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation**, Jian Tang Team, Paper: [http://arxiv.org/abs/2602.16444](http://arxiv.org/abs/2602.16444)
+- 2026-02-19, **RoboGene: Boosting VLA Pre-training via Diversity-Driven Agentic Framework for Real-World Task Generation**, Jian Tang Team, Paper: [http://arxiv.org/abs/2602.16444](http://arxiv.org/abs/2602.16444)
 - 2026-02-17, **Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**, Lina Yao Team, Paper: [http://arxiv.org/abs/2602.15724](http://arxiv.org/abs/2602.15724)
 - 2026-02-17, **Selective Perception for Robot: Task-Aware Attention in Multimodal VLA**, Soo-Chul Lim Team, Paper: [http://arxiv.org/abs/2602.15543](http://arxiv.org/abs/2602.15543)
 - 2026-02-17, **Feasibility-aware Imitation Learning from Observation with Multimodal Feedback**, Takamitsu Matsubara Team, Paper: [http://arxiv.org/abs/2602.15351](http://arxiv.org/abs/2602.15351)
@@ -172,6 +176,14 @@
 
 ## VLM
 
+- 2026-02-19, **Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**, Zhiqiang Shen Team, Paper: [http://arxiv.org/abs/2602.17645](http://arxiv.org/abs/2602.17645), Code: **[https://github.com/vila-lab/M-Attack-V2](https://github.com/vila-lab/M-Attack-V2)**
+- 2026-02-19, **Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**, Monowar Bhuyan Team, Paper: [http://arxiv.org/abs/2602.17625](http://arxiv.org/abs/2602.17625)
+- 2026-02-19, **AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games**, Joshua B. Tenenbaum Team, Paper: [http://arxiv.org/abs/2602.17594](http://arxiv.org/abs/2602.17594)
+- 2026-02-19, **LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs**, Zongyuan Ge Team, Paper: [http://arxiv.org/abs/2602.17535](http://arxiv.org/abs/2602.17535)
+- 2026-02-19, **Selective Training for Large Vision Language Models via Visual Information Gain**, Sangheum Hwang Team, Paper: [http://arxiv.org/abs/2602.17186](http://arxiv.org/abs/2602.17186)
+- 2026-02-18, **Narrow fine-tuning erodes safety alignment in vision-language agents**, Shivam Raval Team, Paper: [http://arxiv.org/abs/2602.16931](http://arxiv.org/abs/2602.16931)
+- 2026-02-18, **MALLVI: a multi agent framework for integrated generalized robotics manipulation**, Babak Khalaj Team, Paper: [http://arxiv.org/abs/2602.16898](http://arxiv.org/abs/2602.16898)
+- 2026-02-18, **DODO: Discrete OCR Diffusion Models**, Niv Nayman Team, Paper: [http://arxiv.org/abs/2602.16872](http://arxiv.org/abs/2602.16872)
 - 2026-02-18, **Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**, Jundong Li Team, Paper: [http://arxiv.org/abs/2602.16702](http://arxiv.org/abs/2602.16702)
 - 2026-02-18, **A Contrastive Learning Framework Empowered by Attention-based Feature Adaptation for Street-View Image Classification**, James Haworth Team, Paper: [http://arxiv.org/abs/2602.16590](http://arxiv.org/abs/2602.16590)
 - 2026-02-18, **DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images**, Chenfanfu Jiang Team, Paper: [http://arxiv.org/abs/2602.16502](http://arxiv.org/abs/2602.16502)
@@ -429,6 +441,7 @@
 
 ## VLA
 
+- 2026-02-19, **When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**, Mingyu Ding Team, Paper: [http://arxiv.org/abs/2602.17659](http://arxiv.org/abs/2602.17659), Code: **[https://vla-va.github.io/](https://vla-va.github.io/)**
 - 2026-02-18, **EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**, Linxi Fan Team, Paper: [http://arxiv.org/abs/2602.16710](http://arxiv.org/abs/2602.16710)
 - 2026-02-17, **World Action Models are Zero-shot Policies**, Joel Jang Team, Paper: [http://arxiv.org/abs/2602.15922](http://arxiv.org/abs/2602.15922), Code: **[https://dreamzero0.github.io/](https://dreamzero0.github.io/)**
 - 2026-02-17, **Selective Perception for Robot: Task-Aware Attention in Multimodal VLA**, Soo-Chul Lim Team, Paper: [http://arxiv.org/abs/2602.15543](http://arxiv.org/abs/2602.15543)
@@ -554,7 +567,7 @@
 - 2026-02-16, **Replanning Human-Robot Collaborative Tasks with Vision-Language Models via Semantic and Physical Dual-Correction**, Kensuke Harada Team, Paper: [http://arxiv.org/abs/2602.14551](http://arxiv.org/abs/2602.14551)
 - 2026-02-16, **AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation**, Sehoon Ha Team, Paper: [http://arxiv.org/abs/2602.14363](http://arxiv.org/abs/2602.14363), Code: **[https://morganbyrd03.github.io/adaptmanip/](https://morganbyrd03.github.io/adaptmanip/)**
 - 2026-02-15, **ProAct: A Dual-System Framework for Proactive Embodied Social Agents**, Libin Liu Team, Paper: [http://arxiv.org/abs/2602.14048](http://arxiv.org/abs/2602.14048), Code: **[https://proactrobot.github.io/](https://proactrobot.github.io/)**
-- 2026-02-14, **Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement**, Alan Fern Team, Paper: [http://arxiv.org/abs/2602.13850](http://arxiv.org/abs/2602.13850)
+- 2026-02-18, **Humanoid Hanoi: Investigating Shared Whole-Body Control for Skill-Based Box Rearrangement**, Alan Fern Team, Paper: [http://arxiv.org/abs/2602.13850](http://arxiv.org/abs/2602.13850)
 - 2026-02-14, **Impact-Robust Posture Optimization for Aerial Manipulation**, Antonio Franchi Team, Paper: [http://arxiv.org/abs/2602.13762](http://arxiv.org/abs/2602.13762)
 - 2026-02-14, **A Kung Fu Athlete Bot That Can Do It All Day: Highly Dynamic, Balance-Challenging Motion Dataset and Autonomous Fall-Resilient Tracking**, Xuesong Li Team, Paper: [http://arxiv.org/abs/2602.13656](http://arxiv.org/abs/2602.13656)
 - 2026-02-12, **General Humanoid Whole-Body Control via Pretraining and Fast Adaptation**, Zongqing Lu Team, Paper: [http://arxiv.org/abs/2602.11929](http://arxiv.org/abs/2602.11929)
@@ -742,7 +755,7 @@
 
 ## Semantic-SLAM
 
-- 2026-02-12, **VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation**, Kristóf Karacs Team, Paper: [http://arxiv.org/abs/2602.15899](http://arxiv.org/abs/2602.15899)
+- 2026-02-19, **SceneVGGT: VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation**, Kristóf Karacs Team, Paper: [http://arxiv.org/abs/2602.15899](http://arxiv.org/abs/2602.15899)
 - 2026-01-09, **FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time**, Simon Hadfield Team, Paper: [http://arxiv.org/abs/2601.05738](http://arxiv.org/abs/2601.05738)
 - 2025-12-01, **KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM**, Sergey Kolyubin Team, Paper: [http://arxiv.org/abs/2512.01889](http://arxiv.org/abs/2512.01889)
 - 2025-11-28, **Taming the Light: Illumination-Invariant Semantic 3DGS-SLAM**, Zhenhong Jia Team, Paper: [http://arxiv.org/abs/2511.22968](http://arxiv.org/abs/2511.22968)
