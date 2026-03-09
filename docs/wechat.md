@@ -18,6 +18,7 @@
 
 ## Manipulation
 
+- 2026-03-06, **Unified Learning of Temporal Task Structure and Action Timing for Bimanual Robot Manipulation**, Tamim Asfour Team, Paper: [http://arxiv.org/abs/2603.06538](http://arxiv.org/abs/2603.06538)
 - 2026-03-06, **Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling**, Fan Shi Team, Paper: [http://arxiv.org/abs/2603.06218](http://arxiv.org/abs/2603.06218)
 - 2026-03-06, **Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models**, Baochang Zhang Team, Paper: [http://arxiv.org/abs/2603.06049](http://arxiv.org/abs/2603.06049)
 - 2026-03-06, **AnyCamVLA: Zero-Shot Camera Adaptation for Viewpoint Robust Vision-Language-Action Models**, Young Min Kim Team, Paper: [http://arxiv.org/abs/2603.05868](http://arxiv.org/abs/2603.05868), Code: **[https://heo0224.github.io/AnyCamVLA/](https://heo0224.github.io/AnyCamVLA/)**
@@ -300,6 +301,9 @@
 
 ## VLM
 
+- 2026-03-06, **Multimodal Large Language Models as Image Classifiers**, Jiri Matas Team, Paper: [http://arxiv.org/abs/2603.06578](http://arxiv.org/abs/2603.06578)
+- 2026-03-06, **SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning**, Omid Mohareri Team, Paper: [http://arxiv.org/abs/2603.06570](http://arxiv.org/abs/2603.06570)
+- 2026-03-06, **Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders**, Leoweiliang Team, Paper: [http://arxiv.org/abs/2603.06569](http://arxiv.org/abs/2603.06569), Code: **[https://github.com/tencent-ailab/Penguin-VL](https://github.com/tencent-ailab/Penguin-VL)**
 - 2026-03-06, **Do Foundation Models Know Geometry? Probing Frozen Features for Continuous Physical Measurement**, Yakov Pyotr Shkolnikov Team, Paper: [http://arxiv.org/abs/2603.06459](http://arxiv.org/abs/2603.06459)
 - 2026-03-06, **OralGPT-Plus: Learning to Use Visual Tools via Reinforcement Learning for Panoramic X-ray Analysis**, Hao Tang Team, Paper: [http://arxiv.org/abs/2603.06366](http://arxiv.org/abs/2603.06366)
 - 2026-03-06, **K-MaT: Knowledge-Anchored Manifold Transport for Cross-Modal Prompt Learning in Medical Imaging**, Shadi Albarqouni Team, Paper: [http://arxiv.org/abs/2603.06340](http://arxiv.org/abs/2603.06340)
