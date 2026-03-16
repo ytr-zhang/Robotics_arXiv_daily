@@ -381,6 +381,9 @@
 
 ## VLM
 
+- 2026-03-13, **Visual-ERM: Reward Modeling for Visual Equivalence**, Yuhang Zang Team, Paper: [http://arxiv.org/abs/2603.13224](http://arxiv.org/abs/2603.13224), Code: **[https://github.com/InternLM/Visual-ERM](https://github.com/InternLM/Visual-ERM)**
+- 2026-03-13, **Navig-AI-tion: Navigation by Contextual AI and Spatial Audio**, Mar Gonzalez-Franco Team, Paper: [http://arxiv.org/abs/2603.13200](http://arxiv.org/abs/2603.13200)
+- 2026-03-13, **Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**, Vibhav Gogate Team, Paper: [http://arxiv.org/abs/2603.13185](http://arxiv.org/abs/2603.13185), Code: **[https://github.com/rohithpeddi/WorldSGG](https://github.com/rohithpeddi/WorldSGG)**
 - 2026-03-13, **Geometry-Guided Camera Motion Understanding in VideoLLMs**, Guan-Ming Su Team, Paper: [http://arxiv.org/abs/2603.13119](http://arxiv.org/abs/2603.13119)
 - 2026-03-13, **Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences**, Martim Brandão Team, Paper: [http://arxiv.org/abs/2603.13100](http://arxiv.org/abs/2603.13100)
 - 2026-03-13, **Topo-R1: Detecting Topological Anomalies via Vision-Language Models**, Chao Chen Team, Paper: [http://arxiv.org/abs/2603.13054](http://arxiv.org/abs/2603.13054)
@@ -1190,6 +1193,7 @@
 
 ## Humanoid
 
+- 2026-03-13, **PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**, Ivan Laptev Team, Paper: [http://arxiv.org/abs/2603.13228](http://arxiv.org/abs/2603.13228)
 - 2026-03-13, **Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data**, Li Yi Team, Paper: [http://arxiv.org/abs/2603.12686](http://arxiv.org/abs/2603.12686)
 - 2026-03-12, **$Ψ_0$ : An Open Foundation Model Towards Universal Humanoid Loco-Manipulation**, Yue Wang Team, Paper: [http://arxiv.org/abs/2603.12263](http://arxiv.org/abs/2603.12263)
 - 2026-03-12, **SPARK: Skeleton-Parameter Aligned Retargeting on Humanoid Robots with Kinodynamic Trajectory Optimization**, Xiaobin Xiong Team, Paper: [http://arxiv.org/abs/2603.11480](http://arxiv.org/abs/2603.11480)
