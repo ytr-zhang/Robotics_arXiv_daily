@@ -18,6 +18,11 @@
 
 ## Manipulation
 
+- 2026-03-17, **ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K**, Ping Luo Team, Paper: [http://arxiv.org/abs/2603.16866](http://arxiv.org/abs/2603.16866), Code: **[https://manitwin.github.io/](https://manitwin.github.io/)**
+- 2026-03-17, **MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation**, Ranjay Krishna Team, Paper: [http://arxiv.org/abs/2603.16861](http://arxiv.org/abs/2603.16861)
+- 2026-03-17, **DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**, Yue Wang Team, Paper: [http://arxiv.org/abs/2603.16860](http://arxiv.org/abs/2603.16860)
+- 2026-03-17, **BrickSim: A Physics-Based Simulator for Manipulating Interlocking Brick Assemblies**, Changliu Liu Team, Paper: [http://arxiv.org/abs/2603.16853](http://arxiv.org/abs/2603.16853)
+- 2026-03-17, **CABTO: Context-Aware Behavior Tree Grounding for Robot Manipulation**, Yuanpei Chen Team, Paper: [http://arxiv.org/abs/2603.16809](http://arxiv.org/abs/2603.16809)
 - 2026-03-17, **MG-Grasp: Metric-Scale Geometric 6-DoF Grasping Framework with Sparse RGB Observations**, Guijin Wang Team, Paper: [http://arxiv.org/abs/2603.16270](http://arxiv.org/abs/2603.16270)
 - 2026-03-17, **Enabling Dynamic Tracking in Vision-Language-Action Models via Time-Discrete and Time-Continuous Velocity Feedforward**, Wolfram Burgard Team, Paper: [http://arxiv.org/abs/2603.16218](http://arxiv.org/abs/2603.16218)
 - 2026-03-17, **S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight**, Haoang Li Team, Paper: [http://arxiv.org/abs/2603.16195](http://arxiv.org/abs/2603.16195)
@@ -26,7 +31,7 @@
 - 2026-03-16, **CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving**, Xianming Liu Team, Paper: [http://arxiv.org/abs/2603.15771](http://arxiv.org/abs/2603.15771)
 - 2026-03-16, **You've Got a Golden Ticket: Improving Generative Robot Policies With A Single Noise Vector**, Eric Rosen Team, Paper: [http://arxiv.org/abs/2603.15757](http://arxiv.org/abs/2603.15757)
 - 2026-03-16, **Towards Generalizable Robotic Manipulation in Dynamic Environments**, Xiang Bai Team, Paper: [http://arxiv.org/abs/2603.15620](http://arxiv.org/abs/2603.15620)
-- 2026-03-16, **Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**, Shanghang Zhang Team, Paper: [http://arxiv.org/abs/2603.15618](http://arxiv.org/abs/2603.15618)
+- 2026-03-17, **Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**, Shanghang Zhang Team, Paper: [http://arxiv.org/abs/2603.15618](http://arxiv.org/abs/2603.15618)
 - 2026-03-16, **From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation**, Yao Mu Team, Paper: [http://arxiv.org/abs/2603.15600](http://arxiv.org/abs/2603.15600)
 - 2026-03-16, **RoCo Challenge at AAAI 2026: Benchmarking Robotic Collaborative Manipulation for Assembly Towards Industrial Automation**, Ziwei Wang Team, Paper: [http://arxiv.org/abs/2603.15469](http://arxiv.org/abs/2603.15469)
 - 2026-03-16, **End-to-End Dexterous Grasp Learning from Single-View Point Clouds via a Multi-Object Scene Dataset**, Fenglei Ni Team, Paper: [http://arxiv.org/abs/2603.15410](http://arxiv.org/abs/2603.15410)
@@ -418,6 +423,17 @@
 
 ## VLM
 
+- 2026-03-17, **MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation**, Ranjay Krishna Team, Paper: [http://arxiv.org/abs/2603.16861](http://arxiv.org/abs/2603.16861)
+- 2026-03-17, **DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**, Yue Wang Team, Paper: [http://arxiv.org/abs/2603.16860](http://arxiv.org/abs/2603.16860)
+- 2026-03-17, **IOSVLM: A 3D Vision-Language Model for Unified Dental Diagnosis from Intraoral Scans**, Zuozhu Liu Team, Paper: [http://arxiv.org/abs/2603.16781](http://arxiv.org/abs/2603.16781)
+- 2026-03-17, **Retrieving Counterfactuals Improves Visual In-Context Learning**, Aidong Zhang Team, Paper: [http://arxiv.org/abs/2603.16737](http://arxiv.org/abs/2603.16737)
+- 2026-03-17, **The Cost of Reasoning: Chain-of-Thought Induces Overconfidence in Vision-Language Models**, Kevin Smith Team, Paper: [http://arxiv.org/abs/2603.16728](http://arxiv.org/abs/2603.16728)
+- 2026-03-17, **Kestrel: Grounding Self-Refinement for LVLM Hallucination Mitigation**, Yuyin Zhou Team, Paper: [http://arxiv.org/abs/2603.16664](http://arxiv.org/abs/2603.16664)
+- 2026-03-17, **HeBA: Heterogeneous Bottleneck Adapters for Robust Vision-Language Models**, Md Jahidul Islam Team, Paper: [http://arxiv.org/abs/2603.16653](http://arxiv.org/abs/2603.16653)
+- 2026-03-17, **FlowComposer: Composable Flows for Compositional Zero-Shot Learning**, Long Chen Team, Paper: [http://arxiv.org/abs/2603.16641](http://arxiv.org/abs/2603.16641)
+- 2026-03-17, **Rationale Matters: Learning Transferable Rubrics via Proxy-Guided Critique for VLMReward Models**, Guanjun Jiang Team, Paper: [http://arxiv.org/abs/2603.16600](http://arxiv.org/abs/2603.16600)
+- 2026-03-17, **V-DyKnow: A Dynamic Benchmark for Time-Sensitive Knowledge in Vision Language Models**, Giuseppe Riccardi Team, Paper: [http://arxiv.org/abs/2603.16581](http://arxiv.org/abs/2603.16581)
+- 2026-03-17, **Segmentation-Based Attention Entropy: Detecting and Mitigating Object Hallucinations in Large Vision-Language Models**, Mingbo Zhao Team, Paper: [http://arxiv.org/abs/2603.16558](http://arxiv.org/abs/2603.16558)
 - 2026-03-17, **Visual Distraction Undermines Moral Reasoning in Vision-Language Models**, Yixin Zhu Team, Paper: [http://arxiv.org/abs/2603.16445](http://arxiv.org/abs/2603.16445)
 - 2026-03-17, **Locate-then-Sparsify: Attribution Guided Sparse Strategy for Visual Hallucination Mitigation**, Shuhui Wang Team, Paper: [http://arxiv.org/abs/2603.16284](http://arxiv.org/abs/2603.16284)
 - 2026-03-17, **FG-SGL: Fine-Grained Semantic Guidance Learning via Motion Process Decomposition for Micro-Gesture Recognition**, Jingjie Yan Team, Paper: [http://arxiv.org/abs/2603.16269](http://arxiv.org/abs/2603.16269)
@@ -1037,12 +1053,13 @@
 
 ## VLA
 
+- 2026-03-17, **Fast-WAM: Do World Action Models Need Test-time Future Imagination?**, Hang Zhao Team, Paper: [http://arxiv.org/abs/2603.16666](http://arxiv.org/abs/2603.16666)
 - 2026-03-17, **Enabling Dynamic Tracking in Vision-Language-Action Models via Time-Discrete and Time-Continuous Velocity Feedforward**, Wolfram Burgard Team, Paper: [http://arxiv.org/abs/2603.16218](http://arxiv.org/abs/2603.16218)
 - 2026-03-17, **Towards the Vision-Sound-Language-Action Paradigm: The HEAR Framework for Sound-Centric Manipulation**, Hesheng Wang Team, Paper: [http://arxiv.org/abs/2603.16086](http://arxiv.org/abs/2603.16086)
 - 2026-03-17, **Enhancing Linguistic Generalization of VLA: Fine-Tuning OpenVLA via Synthetic Instruction Augmentation**, Dongik Shin Team, Paper: [http://arxiv.org/abs/2603.16044](http://arxiv.org/abs/2603.16044)
 - 2026-03-16, **Safety Case Patterns for VLA-based driving systems: Insights from SimLingo**, Alvine Boaye Belle Team, Paper: [http://arxiv.org/abs/2603.16013](http://arxiv.org/abs/2603.16013)
 - 2026-03-16, **Towards Generalizable Robotic Manipulation in Dynamic Environments**, Xiang Bai Team, Paper: [http://arxiv.org/abs/2603.15620](http://arxiv.org/abs/2603.15620)
-- 2026-03-16, **Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**, Shanghang Zhang Team, Paper: [http://arxiv.org/abs/2603.15618](http://arxiv.org/abs/2603.15618)
+- 2026-03-17, **Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models**, Shanghang Zhang Team, Paper: [http://arxiv.org/abs/2603.15618](http://arxiv.org/abs/2603.15618)
 - 2026-03-16, **MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**, Yue Wang Team, Paper: [http://arxiv.org/abs/2603.15418](http://arxiv.org/abs/2603.15418)
 - 2026-03-16, **HapticVLA: Contact-Rich Manipulation via Vision-Language-Action Model without Inference-Time Tactile Sensing**, Dzmitry Tsetserukou Team, Paper: [http://arxiv.org/abs/2603.15257](http://arxiv.org/abs/2603.15257)
 - 2026-03-16, **NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation**, He Wang Team, Paper: [http://arxiv.org/abs/2603.15186](http://arxiv.org/abs/2603.15186)
@@ -1531,6 +1548,9 @@
 
 ## Dexterous
 
+- 2026-03-17, **DexGrasp-Zero: A Morphology-Aligned Policy for Zero-Shot Cross-Embodiment Dexterous Grasping**, Ancong Wu Team, Paper: [http://arxiv.org/abs/2603.16806](http://arxiv.org/abs/2603.16806)
+- 2026-03-17, **Beyond Cybathlon: On-demand Quadrupedal Assistance for People with Limited Mobility**, Marco Hutter Team, Paper: [http://arxiv.org/abs/2603.16772](http://arxiv.org/abs/2603.16772)
+- 2026-03-17, **Fast and Reliable Gradients for Deformables Across Frictional Contact Regimes**, Fan Shi Team, Paper: [http://arxiv.org/abs/2603.16478](http://arxiv.org/abs/2603.16478)
 - 2026-03-16, **Emergent Dexterity via Diverse Resets and Large-Scale Reinforcement Learning**, Abhishek Gupta Team, Paper: [http://arxiv.org/abs/2603.15789](http://arxiv.org/abs/2603.15789)
 - 2026-03-15, **One-Policy-Fits-All: Geometry-Aware Action Latents for Cross-Embodiment Manipulation**, Jiangmiao Pang Team, Paper: [http://arxiv.org/abs/2603.14522](http://arxiv.org/abs/2603.14522)
 - 2026-03-15, **Context-Aware Adaptive Shared Control for Magnetically-Driven Bimanual Dexterous Micromanipulation**, Dandan Zhang Team, Paper: [http://arxiv.org/abs/2603.14388](http://arxiv.org/abs/2603.14388)
