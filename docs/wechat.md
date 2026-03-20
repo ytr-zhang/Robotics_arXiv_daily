@@ -18,6 +18,11 @@
 
 ## Manipulation
 
+- 2026-03-19, **MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**, Ziwei Liu Team, Paper: [http://arxiv.org/abs/2603.19231](http://arxiv.org/abs/2603.19231), Code: **[https://lihaitian.com/MonoArt](https://lihaitian.com/MonoArt)**
+- 2026-03-19, **OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation**, Wenchao Ding Team, Paper: [http://arxiv.org/abs/2603.19201](http://arxiv.org/abs/2603.19201), Code: **[https://mrsecant.github.io/OmniVTA](https://mrsecant.github.io/OmniVTA)**
+- 2026-03-19, **Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models**, Mac Schwager Team, Paper: [http://arxiv.org/abs/2603.19183](http://arxiv.org/abs/2603.19183)
+- 2026-03-19, **Articulated-Body Dynamics Network: Dynamics-Grounded Prior for Robot Learning**, Josiah Hanna Team, Paper: [http://arxiv.org/abs/2603.19078](http://arxiv.org/abs/2603.19078)
+- 2026-03-19, **Safety-Guaranteed Imitation Learning from Nonlinear Model Predictive Control for Spacecraft Close Proximity Operations**, Alen Turnwald Team, Paper: [http://arxiv.org/abs/2603.18910](http://arxiv.org/abs/2603.18910)
 - 2026-03-19, **V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors**, Yang Gao Team, Paper: [http://arxiv.org/abs/2603.18811](http://arxiv.org/abs/2603.18811)
 - 2026-03-19, **ViTac-Tracing: Visual-Tactile Imitation Learning of Deformable Object Tracing**, Shan Luo Team, Paper: [http://arxiv.org/abs/2603.18784](http://arxiv.org/abs/2603.18784)
 - 2026-03-19, **MemoAct: Atkinson-Shiffrin-Inspired Memory-Augmented Visuomotor Policy for Robotic Manipulation**, Gangshan Jing Team, Paper: [http://arxiv.org/abs/2603.18494](http://arxiv.org/abs/2603.18494)
@@ -439,6 +444,16 @@
 
 ## VLM
 
+- 2026-03-19, **Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**, Paola Cascante-Bonilla Team, Paper: [http://arxiv.org/abs/2603.19209](http://arxiv.org/abs/2603.19209), Code: **[https://lab-spell.github.io/vlm-ssm-vision-encoders/](https://lab-spell.github.io/vlm-ssm-vision-encoders/)**
+- 2026-03-19, **Tinted Frames: Question Framing Blinds Vision-Language Models**, Ritwik Gupta Team, Paper: [http://arxiv.org/abs/2603.19203](http://arxiv.org/abs/2603.19203), Code: **[https://davidhalladay.github.io/tinted_frames_demo/](https://davidhalladay.github.io/tinted_frames_demo/)**
+- 2026-03-19, **Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation**, Nakul Gopalan Team, Paper: [http://arxiv.org/abs/2603.19166](http://arxiv.org/abs/2603.19166), Code: **[https://lakshya-asu.github.io/Meanings-Measurements-Multi-Agent-Probabilistic-Grounding/](https://lakshya-asu.github.io/Meanings-Measurements-Multi-Agent-Probabilistic-Grounding/)**
+- 2026-03-19, **GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning**, Yu Yin Team, Paper: [http://arxiv.org/abs/2603.19137](http://arxiv.org/abs/2603.19137), Code: **[https://vulab-ai.github.io/GSMem/](https://vulab-ai.github.io/GSMem/)**
+- 2026-03-19, **TAU-R1: Visual Language Model for Traffic Anomaly Understanding**, Nic Zhang Team, Paper: [http://arxiv.org/abs/2603.19098](http://arxiv.org/abs/2603.19098)
+- 2026-03-19, **SAVeS: Steering Safety Judgments in Vision-Language Models via Semantic Cues**, Bernard Ghanem Team, Paper: [http://arxiv.org/abs/2603.19092](http://arxiv.org/abs/2603.19092)
+- 2026-03-19, **SwiftTailor: Efficient 3D Garment Generation with Geometry Image Representation**, Phong Nguyen Team, Paper: [http://arxiv.org/abs/2603.19053](http://arxiv.org/abs/2603.19053)
+- 2026-03-19, **TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation**, Paolo Rota Team, Paper: [http://arxiv.org/abs/2603.19039](http://arxiv.org/abs/2603.19039)
+- 2026-03-19, **SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models**, Massimiliano Mancini Team, Paper: [http://arxiv.org/abs/2603.19028](http://arxiv.org/abs/2603.19028), Code: **[https://sparse-embedding-modulation.github.io/](https://sparse-embedding-modulation.github.io/)**
+- 2026-03-19, **MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction**, Michael Gienger Team, Paper: [http://arxiv.org/abs/2603.18988](http://arxiv.org/abs/2603.18988)
 - 2026-03-19, **MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**, Sung Ju Hwang Team, Paper: [http://arxiv.org/abs/2603.18892](http://arxiv.org/abs/2603.18892), Code: **[https://youngwanlee.github.io/multihopspatial](https://youngwanlee.github.io/multihopspatial)**
 - 2026-03-19, **HORNet: Task-Guided Frame Selection for Video Question Answering with Vision-Language Models**, Sarah Ostadabbas Team, Paper: [http://arxiv.org/abs/2603.18850](http://arxiv.org/abs/2603.18850)
 - 2026-03-19, **Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation**, Garin Kessler Team, Paper: [http://arxiv.org/abs/2603.18795](http://arxiv.org/abs/2603.18795)
@@ -1114,6 +1129,11 @@
 
 ## VLA
 
+- 2026-03-19, **Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**, Peng Wang Team, Paper: [http://arxiv.org/abs/2603.19233](http://arxiv.org/abs/2603.19233)
+- 2026-03-19, **DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**, Jiwen Lu Team, Paper: [http://arxiv.org/abs/2603.19219](http://arxiv.org/abs/2603.19219), Code: **[https://paryi555.github.io/DriveTok/](https://paryi555.github.io/DriveTok/)**
+- 2026-03-19, **FASTER: Rethinking Real-Time Flow VLAs**, Hengshuang Zhao Team, Paper: [http://arxiv.org/abs/2603.19199](http://arxiv.org/abs/2603.19199), Code: **[https://innovator-zero.github.io/FASTER](https://innovator-zero.github.io/FASTER)**
+- 2026-03-19, **Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models**, Mac Schwager Team, Paper: [http://arxiv.org/abs/2603.19183](http://arxiv.org/abs/2603.19183)
+- 2026-03-19, **From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models**, Chaojian Li Team, Paper: [http://arxiv.org/abs/2603.19131](http://arxiv.org/abs/2603.19131)
 - 2026-03-19, **MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model**, Sung Ju Hwang Team, Paper: [http://arxiv.org/abs/2603.18892](http://arxiv.org/abs/2603.18892), Code: **[https://youngwanlee.github.io/multihopspatial](https://youngwanlee.github.io/multihopspatial)**
 - 2026-03-19, **Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds**, Wei Xu Team, Paper: [http://arxiv.org/abs/2603.18532](http://arxiv.org/abs/2603.18532)
 - 2026-03-19, **AcceRL: A Distributed Asynchronous Reinforcement Learning and World Model Framework for Vision-Language-Action Models**, Yang Liu Team, Paper: [http://arxiv.org/abs/2603.18464](http://arxiv.org/abs/2603.18464)
@@ -1487,6 +1507,7 @@
 
 ## Humanoid-Locomotion
 
+- 2026-03-19, **PRIOR: Perceptive Learning for Humanoid Locomotion with Reference Gait Priors**, Houde Liu Team, Paper: [http://arxiv.org/abs/2603.18979](http://arxiv.org/abs/2603.18979), Code: **[https://prior-iros2026.github.io/](https://prior-iros2026.github.io/)**
 - 2026-03-18, **Rapid Adaptation of Particle Dynamics for Generalized Deformable Object Mobile Manipulation**, Li Fei-Fei Team, Paper: [http://arxiv.org/abs/2603.18246](http://arxiv.org/abs/2603.18246)
 - 2026-03-19, **RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids**, Jianfei Yang Team, Paper: [http://arxiv.org/abs/2603.17927](http://arxiv.org/abs/2603.17927)
 - 2026-03-17, **ADAPT: Adaptive Dual-projection Architecture for Perceptive Traversal**, Shiwu Zhang Team, Paper: [http://arxiv.org/abs/2603.16328](http://arxiv.org/abs/2603.16328)
@@ -1549,6 +1570,8 @@
 
 ## VLN-Navigation
 
+- 2026-03-19, **NavTrust: Benchmarking Trustworthiness for Embodied Navigation**, Jiachen Li Team, Paper: [http://arxiv.org/abs/2603.19229](http://arxiv.org/abs/2603.19229), Code: **[https://navtrust.github.io](https://navtrust.github.io)**
+- 2026-03-19, **Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation**, Nakul Gopalan Team, Paper: [http://arxiv.org/abs/2603.19166](http://arxiv.org/abs/2603.19166), Code: **[https://lakshya-asu.github.io/Meanings-Measurements-Multi-Agent-Probabilistic-Grounding/](https://lakshya-asu.github.io/Meanings-Measurements-Multi-Agent-Probabilistic-Grounding/)**
 - 2026-03-18, **AgentVLN: Towards Agentic Vision-and-Language Navigation**, Shengjun Huang Team, Paper: [http://arxiv.org/abs/2603.17670](http://arxiv.org/abs/2603.17670)
 - 2026-03-18, **FloorPlan-VLN: A New Paradigm for Floor Plan Guided Vision-Language Navigation**, Liang Wang Team, Paper: [http://arxiv.org/abs/2603.17437](http://arxiv.org/abs/2603.17437)
 - 2026-03-18, **OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms**, Lihua Xie Team, Paper: [http://arxiv.org/abs/2603.17351](http://arxiv.org/abs/2603.17351)
@@ -1718,7 +1741,7 @@
 
 ## Semantic-SLAM
 
-- 2026-03-03, **PathSpace: Rapid continuous map approximation for efficient SLAM using B-Splines in constrained environments**, Matthias Rolf Team, Paper: [http://arxiv.org/abs/2603.02538](http://arxiv.org/abs/2603.02538)
+- 2026-03-19, **PathSpace: Rapid continuous map approximation for efficient SLAM using B-Splines in constrained environments**, Matthias Rolf Team, Paper: [http://arxiv.org/abs/2603.02538](http://arxiv.org/abs/2603.02538)
 - 2026-03-18, **IRIS-SLAM: Unified Geo-Instance Representations for Robust Semantic Localization and Mapping**, Zhizhong Su Team, Paper: [http://arxiv.org/abs/2602.18709](http://arxiv.org/abs/2602.18709)
 - 2026-02-19, **SceneVGGT: VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation**, Kristóf Karacs Team, Paper: [http://arxiv.org/abs/2602.15899](http://arxiv.org/abs/2602.15899)
 - 2026-01-09, **FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time**, Simon Hadfield Team, Paper: [http://arxiv.org/abs/2601.05738](http://arxiv.org/abs/2601.05738)
