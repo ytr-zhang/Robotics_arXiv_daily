@@ -446,6 +446,8 @@
 
 ## VLM
 
+- 2026-03-20, **Adaptive Greedy Frame Selection for Long Video Understanding**, Fengqing Zhu Team, Paper: [http://arxiv.org/abs/2603.20180](http://arxiv.org/abs/2603.20180)
+- 2026-03-20, **The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning**, Kwanghyun Park Team, Paper: [http://arxiv.org/abs/2603.20164](http://arxiv.org/abs/2603.20164), Code: **[https://limjiyu99.github.io/inner-critic/](https://limjiyu99.github.io/inner-critic/)**
 - 2026-03-20, **HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction**, Guang Yang Team, Paper: [http://arxiv.org/abs/2603.19957](http://arxiv.org/abs/2603.19957)
 - 2026-03-20, **IsoCLIP: Decomposing CLIP Projectors for Efficient Intra-modal Alignment**, Andrew D. Bagdanov Team, Paper: [http://arxiv.org/abs/2603.19862](http://arxiv.org/abs/2603.19862)
 - 2026-03-20, **Beyond detection: cooperative multi-agent reasoning for rapid onboard EO crisis response**, Julian Cobos Aparicio Team, Paper: [http://arxiv.org/abs/2603.19858](http://arxiv.org/abs/2603.19858), Code: **[https://atpi.eventsair.com/4s-symposium-2026/)](https://atpi.eventsair.com/4s-symposium-2026/))**
