@@ -18,6 +18,9 @@
 
 ## Manipulation
 
+- 2026-03-24, **ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment**, Mu Xu Team, Paper: [http://arxiv.org/abs/2603.23376](http://arxiv.org/abs/2603.23376)
+- 2026-03-24, **Efficient Hybrid SE(3)-Equivariant Visuomotor Flow Policy via Spherical Harmonics for Robot Manipulation**, Shuaicheng Liu Team, Paper: [http://arxiv.org/abs/2603.23227](http://arxiv.org/abs/2603.23227)
+- 2026-03-24, **Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**, Yanchao Yang Team, Paper: [http://arxiv.org/abs/2603.23202](http://arxiv.org/abs/2603.23202)
 - 2026-03-24, **TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**, Wenyuan Xu Team, Paper: [http://arxiv.org/abs/2603.23117](http://arxiv.org/abs/2603.23117)
 - 2026-03-24, **Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring**, Bingzhuo Zhong Team, Paper: [http://arxiv.org/abs/2603.22899](http://arxiv.org/abs/2603.22899)
 - 2026-03-24, **VLGOR: Visual-Language Knowledge Guided Offline Reinforcement Learning for Generalizable Agents**, Yang Yu Team, Paper: [http://arxiv.org/abs/2603.22892](http://arxiv.org/abs/2603.22892)
@@ -461,6 +464,10 @@
 
 ## VLM
 
+- 2026-03-24, **MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage**, Muhammad Haris Khan Team, Paper: [http://arxiv.org/abs/2603.23501](http://arxiv.org/abs/2603.23501)
+- 2026-03-24, **VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions**, Georgios Tzimiropoulos Team, Paper: [http://arxiv.org/abs/2603.23495](http://arxiv.org/abs/2603.23495)
+- 2026-03-24, **ARGENT: Adaptive Hierarchical Image-Text Representations**, Suren Kumar Team, Paper: [http://arxiv.org/abs/2603.23311](http://arxiv.org/abs/2603.23311)
+- 2026-03-24, **Gaze-Regularized VLMs for Ego-Centric Behavior Understanding**, Yanchao Yang Team, Paper: [http://arxiv.org/abs/2603.23190](http://arxiv.org/abs/2603.23190)
 - 2026-03-24, **Conformal Cross-Modal Active Learning**, Andreas Kugi Team, Paper: [http://arxiv.org/abs/2603.23159](http://arxiv.org/abs/2603.23159)
 - 2026-03-24, **Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models**, Indro Spinelli Team, Paper: [http://arxiv.org/abs/2603.23149](http://arxiv.org/abs/2603.23149)
 - 2026-03-24, **MedCausalX: Adaptive Causal Reasoning with Self-Reflection for Trustworthy Medical Vision-Language Models**, Yuan Xue Team, Paper: [http://arxiv.org/abs/2603.23085](http://arxiv.org/abs/2603.23085)
@@ -1218,6 +1225,7 @@
 
 ## VLA
 
+- 2026-03-24, **Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**, Yanchao Yang Team, Paper: [http://arxiv.org/abs/2603.23202](http://arxiv.org/abs/2603.23202)
 - 2026-03-24, **TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**, Wenyuan Xu Team, Paper: [http://arxiv.org/abs/2603.23117](http://arxiv.org/abs/2603.23117)
 - 2026-03-24, **VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**, Wei Zhang Team, Paper: [http://arxiv.org/abs/2603.22991](http://arxiv.org/abs/2603.22991)
 - 2026-03-24, **Agile-VLA: Few-Shot Industrial Pose Rectification via Implicit Affordance Anchoring**, Bingzhuo Zhong Team, Paper: [http://arxiv.org/abs/2603.22899](http://arxiv.org/abs/2603.22899)
@@ -1517,6 +1525,7 @@
 
 ## Humanoid
 
+- 2026-03-24, **A Multimodal Framework for Human-Multi-Agent Interaction**, Tariq Iqbal Team, Paper: [http://arxiv.org/abs/2603.23271](http://arxiv.org/abs/2603.23271)
 - 2026-03-24, **Human vs. NAO: A Computational-Behavioral Framework for Quantifying Social Orienting in Autism and Typical Development**, Bishakh Bhattacharya Team, Paper: [http://arxiv.org/abs/2603.22759](http://arxiv.org/abs/2603.22759)
 - 2026-03-24, **Learning Safe-Stoppability Monitors for Humanoid Robots**, Changliu Liu Team, Paper: [http://arxiv.org/abs/2603.22703](http://arxiv.org/abs/2603.22703)
 - 2026-03-23, **Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control**, Xun Cao Team, Paper: [http://arxiv.org/abs/2603.22201](http://arxiv.org/abs/2603.22201)
