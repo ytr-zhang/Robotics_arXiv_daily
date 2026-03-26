@@ -18,6 +18,7 @@
 
 ## Manipulation
 
+- 2026-03-25, **Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation**, Jianfei Yang Team, Paper: [http://arxiv.org/abs/2603.24576](http://arxiv.org/abs/2603.24576), Code: **[https://github.com/gxyes/MARS_Chameleon](https://github.com/gxyes/MARS_Chameleon)**
 - 2026-03-25, **A Sensorless, Inherently Compliant Anthropomorphic Musculoskeletal Hand Driven by Electrohydraulic Actuators**, Robert K. Katzschmann Team, Paper: [http://arxiv.org/abs/2603.24357](http://arxiv.org/abs/2603.24357)
 - 2026-03-25, **Evidence of an Emergent "Self" in Continual Robot Learning**, Hod Lipson Team, Paper: [http://arxiv.org/abs/2603.24350](http://arxiv.org/abs/2603.24350)
 - 2026-03-25, **Toward Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities**, Minghui Zheng Team, Paper: [http://arxiv.org/abs/2603.24318](http://arxiv.org/abs/2603.24318)
@@ -468,6 +469,13 @@
 
 ## VLM
 
+- 2026-03-25, **Vision-Language Models vs Human: Perceptual Image Quality Assessment**, Brian Deegan Team, Paper: [http://arxiv.org/abs/2603.24578](http://arxiv.org/abs/2603.24578)
+- 2026-03-25, **VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models**, Ranjay Krishna Team, Paper: [http://arxiv.org/abs/2603.24575](http://arxiv.org/abs/2603.24575)
+- 2026-03-25, **LensWalk: Agentic Video Understanding by Planning How You See in Videos**, Shiguang Shan Team, Paper: [http://arxiv.org/abs/2603.24558](http://arxiv.org/abs/2603.24558)
+- 2026-03-25, **Cross-Modal Prototype Alignment and Mixing for Training-Free Few-Shot Classification**, Joost van de Weijer Team, Paper: [http://arxiv.org/abs/2603.24528](http://arxiv.org/abs/2603.24528)
+- 2026-03-25, **Unleashing Vision-Language Semantics for Deepfake Video Detection**, Guansong Pang Team, Paper: [http://arxiv.org/abs/2603.24454](http://arxiv.org/abs/2603.24454)
+- 2026-03-25, **ViHOI: Human-Object Interaction Synthesis with Visual Priors**, Changxing Ding Team, Paper: [http://arxiv.org/abs/2603.24383](http://arxiv.org/abs/2603.24383)
+- 2026-03-25, **GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization**, Xiangyu Zhao Team, Paper: [http://arxiv.org/abs/2603.24376](http://arxiv.org/abs/2603.24376)
 - 2026-03-25, **PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks**, Yi Liu Team, Paper: [http://arxiv.org/abs/2603.24373](http://arxiv.org/abs/2603.24373)
 - 2026-03-25, **Boosting Document Parsing Efficiency and Performance with Coarse-to-Fine Visual Processing**, Yanjun Ma Team, Paper: [http://arxiv.org/abs/2603.24326](http://arxiv.org/abs/2603.24326)
 - 2026-03-25, **Language-Assisted Image Clustering Guided by Discriminative Relational Signals and Adaptive Semantic Centers**, Yuheng Jia Team, Paper: [http://arxiv.org/abs/2603.24275](http://arxiv.org/abs/2603.24275)
@@ -1245,6 +1253,8 @@
 
 ## VLA
 
+- 2026-03-25, **TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models**, Guangrun Wang Team, Paper: [http://arxiv.org/abs/2603.24584](http://arxiv.org/abs/2603.24584)
+- 2026-03-25, **3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models**, Kai Chen Team, Paper: [http://arxiv.org/abs/2603.24393](http://arxiv.org/abs/2603.24393)
 - 2026-03-25, **SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**, Jinyu Gu Team, Paper: [http://arxiv.org/abs/2603.24060](http://arxiv.org/abs/2603.24060)
 - 2026-03-24, **Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**, Yanchao Yang Team, Paper: [http://arxiv.org/abs/2603.23202](http://arxiv.org/abs/2603.23202)
 - 2026-03-24, **TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**, Wenyuan Xu Team, Paper: [http://arxiv.org/abs/2603.23117](http://arxiv.org/abs/2603.23117)
