@@ -18,6 +18,10 @@
 
 ## Manipulation
 
+- 2026-03-26, **SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation**, Ajay Mandlekar Team, Paper: [http://arxiv.org/abs/2603.25725](http://arxiv.org/abs/2603.25725)
+- 2026-03-26, **Towards Generalizable Robotic Data Flywheel: High-Dimensional Factorization and Composition**, Yuxiao Liu Team, Paper: [http://arxiv.org/abs/2603.25583](http://arxiv.org/abs/2603.25583)
+- 2026-03-26, **Towards Embodied AI with MuscleMimic: Unlocking full-body musculoskeletal motor learning at scale**, Alexander Mathis Team, Paper: [http://arxiv.org/abs/2603.25544](http://arxiv.org/abs/2603.25544)
+- 2026-03-26, **PAWS: Perception of Articulation in the Wild at Scale from Egocentric Videos**, Arno Solin Team, Paper: [http://arxiv.org/abs/2603.25539](http://arxiv.org/abs/2603.25539), Code: **[https://aaltoml.github.io/PAWS/](https://aaltoml.github.io/PAWS/)**
 - 2026-03-26, **LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation**, Komei Sugiura Team, Paper: [http://arxiv.org/abs/2603.25481](http://arxiv.org/abs/2603.25481)
 - 2026-03-26, **VideoWeaver: Multimodal Multi-View Video-to-Video Transfer for Embodied Agents**, Ziyuan Liu Team, Paper: [http://arxiv.org/abs/2603.25420](http://arxiv.org/abs/2603.25420)
 - 2026-03-26, **LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior**, Lixin Yang Team, Paper: [http://arxiv.org/abs/2603.25399](http://arxiv.org/abs/2603.25399)
@@ -474,6 +478,7 @@
 
 ## VLM
 
+- 2026-03-26, **Humans vs Vision-Language Models: A Unified Measure of Narrative Coherence**, Sharid Loáiciga Team, Paper: [http://arxiv.org/abs/2603.25537](http://arxiv.org/abs/2603.25537)
 - 2026-03-26, **GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**, Sondos Mohamed Team, Paper: [http://arxiv.org/abs/2603.25467](http://arxiv.org/abs/2603.25467)
 - 2026-03-26, **HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models**, Jiaolong Yang Team, Paper: [http://arxiv.org/abs/2603.25411](http://arxiv.org/abs/2603.25411), Code: **[https://microsoft.github.io/HiSpatial](https://microsoft.github.io/HiSpatial)**
 - 2026-03-26, **Shape and Substance: Dual-Layer Side-Channel Attacks on Local Vision-Language Models**, Mordechai Guri Team, Paper: [http://arxiv.org/abs/2603.25403](http://arxiv.org/abs/2603.25403)
@@ -1275,6 +1280,8 @@
 
 ## VLA
 
+- 2026-03-26, **Vega: Learning to Drive with Natural Language Instructions**, Jiwen Lu Team, Paper: [http://arxiv.org/abs/2603.25741](http://arxiv.org/abs/2603.25741), Code: **[https://github.com/zuosc19/Vega](https://github.com/zuosc19/Vega)**
+- 2026-03-26, **Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**, Jiachen Li Team, Paper: [http://arxiv.org/abs/2603.25740](http://arxiv.org/abs/2603.25740), Code: **[https://dmw-cvpr.github.io/](https://dmw-cvpr.github.io/)**
 - 2026-03-26, **LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation**, Komei Sugiura Team, Paper: [http://arxiv.org/abs/2603.25481](http://arxiv.org/abs/2603.25481)
 - 2026-03-26, **MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**, Donglin Wang Team, Paper: [http://arxiv.org/abs/2603.25406](http://arxiv.org/abs/2603.25406)
 - 2026-03-26, **LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior**, Lixin Yang Team, Paper: [http://arxiv.org/abs/2603.25399](http://arxiv.org/abs/2603.25399)
@@ -1585,6 +1592,7 @@
 
 ## Humanoid
 
+- 2026-03-26, **A Mentalistic Interface for Probing Folk-Psychological Attribution to Non-Humanoid Robots**, Mario G. C. A. Cimino Team, Paper: [http://arxiv.org/abs/2603.25646](http://arxiv.org/abs/2603.25646)
 - 2026-03-26, **SafeGuard ASF: SR Agentic Humanoid Robot System for Autonomous Industrial Safety**, Ben Wei Lim Team, Paper: [http://arxiv.org/abs/2603.25353](http://arxiv.org/abs/2603.25353)
 - 2026-03-25, **PCHC: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning**, Xuelong Li Team, Paper: [http://arxiv.org/abs/2603.24047](http://arxiv.org/abs/2603.24047)
 - 2026-03-25, **MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics**, Aaron D. Ames Team, Paper: [http://arxiv.org/abs/2603.23995](http://arxiv.org/abs/2603.23995)
