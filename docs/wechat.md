@@ -18,6 +18,9 @@
 
 ## Manipulation
 
+- 2026-03-31, **HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation**, Matthew R. Walter Team, Paper: [http://arxiv.org/abs/2603.30042](http://arxiv.org/abs/2603.30042), Code: **[https://ripl.github.io/HapCompass/](https://ripl.github.io/HapCompass/)**
+- 2026-03-31, **Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models**, Mohd Suhaib Team, Paper: [http://arxiv.org/abs/2603.30022](http://arxiv.org/abs/2603.30022)
+- 2026-03-31, **Passive iFIR filters for data-driven velocity control in robotics**, Fulvio Forni Team, Paper: [http://arxiv.org/abs/2603.29882](http://arxiv.org/abs/2603.29882)
 - 2026-03-31, **SafeDMPs: Integrating Formal Safety with DMPs for Adaptive HRI**, Ravi Prakash Team, Paper: [http://arxiv.org/abs/2603.29708](http://arxiv.org/abs/2603.29708)
 - 2026-03-31, **RAAP: Retrieval-Augmented Affordance Prediction with Cross-Image Action Alignment**, Xiu-Shen Wei Team, Paper: [http://arxiv.org/abs/2603.29419](http://arxiv.org/abs/2603.29419)
 - 2026-03-31, **CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics**, Sung-Eui Yoon Team, Paper: [http://arxiv.org/abs/2603.29409](http://arxiv.org/abs/2603.29409), Code: **[https://andrewwwj.github.io/clad](https://andrewwwj.github.io/clad)**
@@ -510,6 +513,9 @@
 
 ## VLM
 
+- 2026-03-31, **Scaling Video Pretraining for Surgical Foundation Models**, Zuozhu Liu Team, Paper: [http://arxiv.org/abs/2603.29966](http://arxiv.org/abs/2603.29966)
+- 2026-03-31, **DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA**, Xihui Liu Team, Paper: [http://arxiv.org/abs/2603.29844](http://arxiv.org/abs/2603.29844), Code: **[https://xpeng-robotics.github.io/dial](https://xpeng-robotics.github.io/dial)**
+- 2026-03-31, **SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes**, Maks Ovsjanikov Team, Paper: [http://arxiv.org/abs/2603.29798](http://arxiv.org/abs/2603.29798), Code: **[https://sceneteract.github.io/](https://sceneteract.github.io/)**
 - 2026-03-31, **From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**, Jan Schagen Team, Paper: [http://arxiv.org/abs/2603.29777](http://arxiv.org/abs/2603.29777)
 - 2026-03-31, **TSHA: A Benchmark for Visual Language Models in Trustworthy Safety Hazard Assessment Scenarios**, Xin Tan Team, Paper: [http://arxiv.org/abs/2603.29759](http://arxiv.org/abs/2603.29759)
 - 2026-03-31, **A Comprehensive Information-Decomposition Analysis of Large Vision-Language Models**, Hideki Nakayama Team, Paper: [http://arxiv.org/abs/2603.29676](http://arxiv.org/abs/2603.29676), Code: **[https://riishin.github.io/pid-lvlm-iclr26/](https://riishin.github.io/pid-lvlm-iclr26/)**
@@ -1367,6 +1373,7 @@
 
 ## VLA
 
+- 2026-03-31, **DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA**, Xihui Liu Team, Paper: [http://arxiv.org/abs/2603.29844](http://arxiv.org/abs/2603.29844), Code: **[https://xpeng-robotics.github.io/dial](https://xpeng-robotics.github.io/dial)**
 - 2026-03-30, **FocusVLA: Focused Visual Utilization for Vision-Language-Action Models**, Jia Wan Team, Paper: [http://arxiv.org/abs/2603.28740](http://arxiv.org/abs/2603.28740)
 - 2026-03-30, **StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation**, Yu Wang Team, Paper: [http://arxiv.org/abs/2603.28565](http://arxiv.org/abs/2603.28565)
 - 2026-03-30, **ManipArena: Comprehensive Real-world Evaluation of Reasoning-Oriented Generalist Robot Manipulation**, Xiaodan Liang Team, Paper: [http://arxiv.org/abs/2603.28545](http://arxiv.org/abs/2603.28545)
@@ -1377,7 +1384,7 @@
 - 2026-03-28, **Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving**, Li Zhang Team, Paper: [http://arxiv.org/abs/2603.27287](http://arxiv.org/abs/2603.27287)
 - 2026-03-27, **VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation**, Haoang Li Team, Paper: [http://arxiv.org/abs/2603.26666](http://arxiv.org/abs/2603.26666)
 - 2026-03-27, **DiffusionAnything: End-to-End In-context Diffusion Learning for Unified Navigation and Pre-Grasp Motion**, Dzmitry Tsetserukou Team, Paper: [http://arxiv.org/abs/2603.26322](http://arxiv.org/abs/2603.26322)
-- 2026-03-27, **DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching**, Haoang Li Team, Paper: [http://arxiv.org/abs/2603.26320](http://arxiv.org/abs/2603.26320)
+- 2026-03-31, **DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching**, Haoang Li Team, Paper: [http://arxiv.org/abs/2603.26320](http://arxiv.org/abs/2603.26320)
 - 2026-03-26, **ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models**, Hao Sun Team, Paper: [http://arxiv.org/abs/2603.25766](http://arxiv.org/abs/2603.25766)
 - 2026-03-30, **Vega: Learning to Drive with Natural Language Instructions**, Jiwen Lu Team, Paper: [http://arxiv.org/abs/2603.25741](http://arxiv.org/abs/2603.25741), Code: **[https://github.com/zuosc19/Vega](https://github.com/zuosc19/Vega)**
 - 2026-03-26, **Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**, Jiachen Li Team, Paper: [http://arxiv.org/abs/2603.25740](http://arxiv.org/abs/2603.25740), Code: **[https://dmw-cvpr.github.io/](https://dmw-cvpr.github.io/)**
@@ -1691,6 +1698,7 @@
 
 ## Humanoid
 
+- 2026-03-31, **DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA**, Xihui Liu Team, Paper: [http://arxiv.org/abs/2603.29844](http://arxiv.org/abs/2603.29844), Code: **[https://xpeng-robotics.github.io/dial](https://xpeng-robotics.github.io/dial)**
 - 2026-03-30, **DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation**, Suli Zou Team, Paper: [http://arxiv.org/abs/2603.28691](http://arxiv.org/abs/2603.28691), Code: **[https://coolmaoguo.github.io/drive-nav-page/](https://coolmaoguo.github.io/drive-nav-page/)**
 - 2026-03-30, **Active Stereo-Camera Outperforms Multi-Sensor Setup in ACT Imitation Learning for Humanoid Manipulation**, Dennis Bank Team, Paper: [http://arxiv.org/abs/2603.28422](http://arxiv.org/abs/2603.28422)
 - 2026-03-26, **Chasing Autonomy: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running**, Aaron D. Ames Team, Paper: [http://arxiv.org/abs/2603.25902](http://arxiv.org/abs/2603.25902)
