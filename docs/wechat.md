@@ -528,6 +528,9 @@
 
 ## VLM
 
+- 2026-04-02, **Steerable Visual Representations**, Yuki M. Asano Team, Paper: [http://arxiv.org/abs/2604.02327](http://arxiv.org/abs/2604.02327)
+- 2026-04-02, **VOID: Video Object and Interaction Deletion**, Ta-Ying Cheng Team, Paper: [http://arxiv.org/abs/2604.02296](http://arxiv.org/abs/2604.02296)
+- 2026-04-02, **SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation**, Giorgos Tolias Team, Paper: [http://arxiv.org/abs/2604.02252](http://arxiv.org/abs/2604.02252)
 - 2026-04-02, **UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**, Xinggang Wang Team, Paper: [http://arxiv.org/abs/2604.02190](http://arxiv.org/abs/2604.02190), Code: **[https://github.com/xiaomi-research/unidrivevla](https://github.com/xiaomi-research/unidrivevla)**
 - 2026-04-02, **Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection**, Jun Won Choi Team, Paper: [http://arxiv.org/abs/2604.02071](http://arxiv.org/abs/2604.02071), Code: **[https://github.com/nowuss/InCoM-Net](https://github.com/nowuss/InCoM-Net)**
 - 2026-04-02, **Jagle: Building a Large-Scale Japanese Multimodal Post-Training Dataset for Vision-Language Models**, Naoaki Okazaki Team, Paper: [http://arxiv.org/abs/2604.02048](http://arxiv.org/abs/2604.02048)
@@ -1426,6 +1429,7 @@
 
 ## VLA
 
+- 2026-04-02, **UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**, Yonglin Tian Team, Paper: [http://arxiv.org/abs/2604.02241](http://arxiv.org/abs/2604.02241)
 - 2026-04-02, **UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving**, Xinggang Wang Team, Paper: [http://arxiv.org/abs/2604.02190](http://arxiv.org/abs/2604.02190), Code: **[https://github.com/xiaomi-research/unidrivevla](https://github.com/xiaomi-research/unidrivevla)**
 - 2026-04-02, **DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning**, Steven L. Waslander Team, Paper: [http://arxiv.org/abs/2604.01765](http://arxiv.org/abs/2604.01765), Code: **[https://drivedreamer-policy.github.io/](https://drivedreamer-policy.github.io/)**
 - 2026-04-02, **Causal Scene Narration with Runtime Safety Supervision for Vision-Language-Action Driving**, Manabu Tsukada Team, Paper: [http://arxiv.org/abs/2604.01723](http://arxiv.org/abs/2604.01723)
@@ -1950,6 +1954,7 @@
 
 ## VLN-Navigation
 
+- 2026-04-02, **Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning**, Guozi Liu Team, Paper: [http://arxiv.org/abs/2604.02318](http://arxiv.org/abs/2604.02318)
 - 2026-03-31, **Benchmarking Interaction, Beyond Policy: a Reproducible Benchmark for Collaborative Instance Object Navigation**, Loris Bazzani Team, Paper: [http://arxiv.org/abs/2604.00265](http://arxiv.org/abs/2604.00265)
 - 2026-03-30, **CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence**, Hong Zhang Team, Paper: [http://arxiv.org/abs/2603.28032](http://arxiv.org/abs/2603.28032), Code: **[https://github.com/louiszengCN/CarlaAir](https://github.com/louiszengCN/CarlaAir)**
 - 2026-03-29, **Structured Observation Language for Efficient and Generalizable Vision-Language Navigation**, Jun Ma Team, Paper: [http://arxiv.org/abs/2603.27577](http://arxiv.org/abs/2603.27577)
