@@ -18,6 +18,9 @@
 
 ## Manipulation
 
+- 2026-04-09, **SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**, Jiangmiao Pang Team, Paper: [http://arxiv.org/abs/2604.08544](http://arxiv.org/abs/2604.08544), Code: **[https://internrobotics.github.io/sim1.github.io/](https://internrobotics.github.io/sim1.github.io/)**
+- 2026-04-09, **ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration**, Cewu Lu Team, Paper: [http://arxiv.org/abs/2604.08534](http://arxiv.org/abs/2604.08534)
+- 2026-04-09, **LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**, Guofeng Zhang Team, Paper: [http://arxiv.org/abs/2604.08475](http://arxiv.org/abs/2604.08475)
 - 2026-04-09, **ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**, Guan Huang Team, Paper: [http://arxiv.org/abs/2604.08168](http://arxiv.org/abs/2604.08168)
 - 2026-04-08, **EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World**, Danfei Xu Team, Paper: [http://arxiv.org/abs/2604.07607](http://arxiv.org/abs/2604.07607)
 - 2026-04-08, **A Physical Agentic Loop for Language-Guided Grasping with Execution-State Monitoring**, Feras Dayoub Team, Paper: [http://arxiv.org/abs/2604.07395](http://arxiv.org/abs/2604.07395), Code: **[https://wenzewwz123.github.io/Agentic-Loop/](https://wenzewwz123.github.io/Agentic-Loop/)**
@@ -569,6 +572,13 @@
 
 ## VLM
 
+- 2026-04-09, **ParseBench: A Document Parsing Benchmark for AI Agents**, Simon Suo Team, Paper: [http://arxiv.org/abs/2604.08538](http://arxiv.org/abs/2604.08538)
+- 2026-04-09, **What They Saw, Not Just Where They Looked: Semantic Scanpath Similarity via VLMs and NLP metric**, Alessandro Bruno Team, Paper: [http://arxiv.org/abs/2604.08494](http://arxiv.org/abs/2604.08494)
+- 2026-04-09, **LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**, Guofeng Zhang Team, Paper: [http://arxiv.org/abs/2604.08475](http://arxiv.org/abs/2604.08475)
+- 2026-04-09, **CrashSight: A Phase-Aware, Infrastructure-Centric Video Benchmark for Traffic Crash Scene Understanding and Reasoning**, Bin Ran Team, Paper: [http://arxiv.org/abs/2604.08457](http://arxiv.org/abs/2604.08457)
+- 2026-04-09, **Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models**, Sunghwan Hong Team, Paper: [http://arxiv.org/abs/2604.08456](http://arxiv.org/abs/2604.08456), Code: **[https://entropy-gradient-grounding.github.io/](https://entropy-gradient-grounding.github.io/)**
+- 2026-04-09, **Phantasia: Context-Adaptive Backdoors in Vision Language Models**, Phi Le Nguyen Team, Paper: [http://arxiv.org/abs/2604.08395](http://arxiv.org/abs/2604.08395)
+- 2026-04-09, **PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models**, Lixin Duan Team, Paper: [http://arxiv.org/abs/2604.08340](http://arxiv.org/abs/2604.08340)
 - 2026-04-09, **Can Vision Language Models Judge Action Quality? An Empirical Evaluation**, Pedro Henrique Martins Team, Paper: [http://arxiv.org/abs/2604.08294](http://arxiv.org/abs/2604.08294)
 - 2026-04-09, **EditCaption: Human-Aligned Instruction Synthesis for Image Editing via Supervised Fine-Tuning and Direct Preference Optimization**, Wei Zhu Team, Paper: [http://arxiv.org/abs/2604.08213](http://arxiv.org/abs/2604.08213)
 - 2026-04-09, **Vision-Language Foundation Models for Comprehensive Automated Pavement Condition Assessment**, Armstrong Aboah Team, Paper: [http://arxiv.org/abs/2604.08212](http://arxiv.org/abs/2604.08212)
@@ -1564,6 +1574,7 @@
 
 ## VLA
 
+- 2026-04-09, **LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**, Guofeng Zhang Team, Paper: [http://arxiv.org/abs/2604.08475](http://arxiv.org/abs/2604.08475)
 - 2026-04-09, **Orion-Lite: Distilling LLM Reasoning into Efficient Vision-Only Driving Models**, Gijs Dubbelman Team, Paper: [http://arxiv.org/abs/2604.08266](http://arxiv.org/abs/2604.08266)
 - 2026-04-09, **ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**, Guan Huang Team, Paper: [http://arxiv.org/abs/2604.08168](http://arxiv.org/abs/2604.08168)
 - 2026-04-09, **HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation**, Badong Chen Team, Paper: [http://arxiv.org/abs/2604.07993](http://arxiv.org/abs/2604.07993), Code: **[https://hex-humanoid.github.io/](https://hex-humanoid.github.io/)**
@@ -2216,6 +2227,7 @@
 
 ## Dexterous
 
+- 2026-04-09, **BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields**, Yaonan Wang Team, Paper: [http://arxiv.org/abs/2604.08410](http://arxiv.org/abs/2604.08410), Code: **[https://github.com/PopeyePxx/BLaDA](https://github.com/PopeyePxx/BLaDA)**
 - 2026-04-07, **GraspSense: Physically Grounded Grasp and Grip Planning for a Dexterous Robotic Hand via Language-Guided Perception and Force Maps**, Dzmitry Tsetserukou Team, Paper: [http://arxiv.org/abs/2604.05697](http://arxiv.org/abs/2604.05697)
 - 2026-04-06, **FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control**, Hojoon Lee Team, Paper: [http://arxiv.org/abs/2604.04539](http://arxiv.org/abs/2604.04539)
 - 2026-04-06, **Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**, Jianyu Chen Team, Paper: [http://arxiv.org/abs/2604.04502](http://arxiv.org/abs/2604.04502)
