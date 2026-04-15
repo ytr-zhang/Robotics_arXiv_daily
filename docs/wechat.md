@@ -18,6 +18,8 @@
 
 ## Manipulation
 
+- 2026-04-14, **XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios**, Hao Wang Team, Paper: [http://arxiv.org/abs/2604.13001](http://arxiv.org/abs/2604.13001)
+- 2026-04-14, **Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**, Guangrun Wang Team, Paper: [http://arxiv.org/abs/2604.12908](http://arxiv.org/abs/2604.12908)
 - 2026-04-14, **Detecting Precise Hand Touch Moments in Egocentric Video**, Minh Hoai Team, Paper: [http://arxiv.org/abs/2604.12343](http://arxiv.org/abs/2604.12343)
 - 2026-04-13, **Active Imitation Learning for Thermal- and Kernel-Aware LFM Inference on 3D S-NUCA Many-Cores**, Anuj Pathania Team, Paper: [http://arxiv.org/abs/2604.11948](http://arxiv.org/abs/2604.11948)
 - 2026-04-13, **Disentangled Point Diffusion for Precise Object Placement**, David Held Team, Paper: [http://arxiv.org/abs/2604.11793](http://arxiv.org/abs/2604.11793)
@@ -595,6 +597,9 @@
 
 ## VLM
 
+- 2026-04-14, **SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis**, Paola Cascante-Bonilla Team, Paper: [http://arxiv.org/abs/2604.13035](http://arxiv.org/abs/2604.13035), Code: **[https://lab-spell.github.io/SceneCritic/](https://lab-spell.github.io/SceneCritic/)**
+- 2026-04-14, **Representation geometry shapes task performance in vision-language modeling for CT enterography**, Ryan Stidham Team, Paper: [http://arxiv.org/abs/2604.13021](http://arxiv.org/abs/2604.13021)
+- 2026-04-14, **GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts**, Hinrich Schütze Team, Paper: [http://arxiv.org/abs/2604.12978](http://arxiv.org/abs/2604.12978)
 - 2026-04-14, **Challenging Vision-Language Models with Physically Deployable Multimodal Semantic Lighting Attacks**, Wen Yao Team, Paper: [http://arxiv.org/abs/2604.12833](http://arxiv.org/abs/2604.12833)
 - 2026-04-14, **VULCAN: Vision-Language-Model Enhanced Multi-Agent Cooperative Navigation for Indoor Fire-Disaster Response**, Qiben Yan Team, Paper: [http://arxiv.org/abs/2604.12831](http://arxiv.org/abs/2604.12831)
 - 2026-04-14, **Do VLMs Truly "Read" Candlesticks? A Multi-Scale Benchmark for Visual Stock Price Forecasting**, Mingwen Liu Team, Paper: [http://arxiv.org/abs/2604.12659](http://arxiv.org/abs/2604.12659)
@@ -2044,6 +2049,8 @@
 
 ## Humanoid
 
+- 2026-04-14, **Learning Versatile Humanoid Manipulation with Touch Dreaming**, Ding Zhao Team, Paper: [http://arxiv.org/abs/2604.13015](http://arxiv.org/abs/2604.13015)
+- 2026-04-14, **Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots**, Linqi Ye Team, Paper: [http://arxiv.org/abs/2604.12909](http://arxiv.org/abs/2604.12909)
 - 2026-04-13, **Safe Human-to-Humanoid Motion Imitation Using Control Barrier Functions**, Anthony Tzes Team, Paper: [http://arxiv.org/abs/2604.11447](http://arxiv.org/abs/2604.11447)
 - 2026-04-14, **CLAW: Composable Language-Annotated Whole-body Motion Generation**, Masayoshi Tomizuka Team, Paper: [http://arxiv.org/abs/2604.11251](http://arxiv.org/abs/2604.11251)
 - 2026-04-10, **Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch**, Lorenzo Natale Team, Paper: [http://arxiv.org/abs/2604.09100](http://arxiv.org/abs/2604.09100)
@@ -2346,6 +2353,7 @@
 
 ## Dexterous
 
+- 2026-04-14, **Learning Versatile Humanoid Manipulation with Touch Dreaming**, Ding Zhao Team, Paper: [http://arxiv.org/abs/2604.13015](http://arxiv.org/abs/2604.13015)
 - 2026-04-13, **Micro-Dexterity in Biological Micromanipulation: Embodiment, Perception, and Control**, Dandan Zhang Team, Paper: [http://arxiv.org/abs/2604.11640](http://arxiv.org/abs/2604.11640)
 - 2026-04-13, **ViserDex: Visual Sim-to-Real for Robust Dexterous In-hand Reorientation**, Marco Hutter Team, Paper: [http://arxiv.org/abs/2604.11138](http://arxiv.org/abs/2604.11138)
 - 2026-04-10, **A Benchmark of Dexterity for Anthropomorphic Robotic Hands**, Robert K. Katzschmann Team, Paper: [http://arxiv.org/abs/2604.09294](http://arxiv.org/abs/2604.09294)
