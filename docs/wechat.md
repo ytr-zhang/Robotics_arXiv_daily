@@ -18,6 +18,7 @@
 
 ## Manipulation
 
+- 2026-04-15, **HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**, Ping Luo Team, Paper: [http://arxiv.org/abs/2604.14125](http://arxiv.org/abs/2604.14125), Code: **[https://tianshuoy.github.io/HiVLA-page/](https://tianshuoy.github.io/HiVLA-page/)**
 - 2026-04-15, **Failure Identification in Imitation Learning Via Statistical and Semantic Filtering**, Jean-Baptiste Mouret Team, Paper: [http://arxiv.org/abs/2604.13788](http://arxiv.org/abs/2604.13788)
 - 2026-04-15, **Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**, Loris Roveda Team, Paper: [http://arxiv.org/abs/2604.13733](http://arxiv.org/abs/2604.13733)
 - 2026-04-15, **Doc-V*:Coarse-to-Fine Interactive Visual Reasoning for Multi-Page Document VQA**, Xiang Bai Team, Paper: [http://arxiv.org/abs/2604.13731](http://arxiv.org/abs/2604.13731)
@@ -603,6 +604,9 @@
 
 ## VLM
 
+- 2026-04-15, **One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**, Yu-Xiong Wang Team, Paper: [http://arxiv.org/abs/2604.14149](http://arxiv.org/abs/2604.14149)
+- 2026-04-15, **HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**, Ping Luo Team, Paper: [http://arxiv.org/abs/2604.14125](http://arxiv.org/abs/2604.14125), Code: **[https://tianshuoy.github.io/HiVLA-page/](https://tianshuoy.github.io/HiVLA-page/)**
+- 2026-04-15, **Training-Free Semantic Multi-Object Tracking with Vision-Language Models**, Lorenzo Vaquero Team, Paper: [http://arxiv.org/abs/2604.14074](http://arxiv.org/abs/2604.14074)
 - 2026-04-15, **Reward Design for Physical Reasoning in Vision-Language Models**, Sameera Horawalavithana Team, Paper: [http://arxiv.org/abs/2604.13993](http://arxiv.org/abs/2604.13993)
 - 2026-04-15, **MApLe: Multi-instance Alignment of Diagnostic Reports and Large Medical Images**, Georg Langs Team, Paper: [http://arxiv.org/abs/2604.13970](http://arxiv.org/abs/2604.13970), Code: **[https://openreview.net/forum?id=M8OO3CRbL9#discussion](https://openreview.net/forum?id=M8OO3CRbL9#discussion)**
 - 2026-04-15, **GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis**, Wentao Yang Team, Paper: [http://arxiv.org/abs/2604.13888](http://arxiv.org/abs/2604.13888)
@@ -1699,6 +1703,7 @@
 
 ## VLA
 
+- 2026-04-15, **HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**, Ping Luo Team, Paper: [http://arxiv.org/abs/2604.14125](http://arxiv.org/abs/2604.14125), Code: **[https://tianshuoy.github.io/HiVLA-page/](https://tianshuoy.github.io/HiVLA-page/)**
 - 2026-04-15, **Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**, Zhongzhu Pu Team, Paper: [http://arxiv.org/abs/2604.13942](http://arxiv.org/abs/2604.13942)
 - 2026-04-15, **Jump-Start Reinforcement Learning with Vision-Language-Action Regularization**, Loris Roveda Team, Paper: [http://arxiv.org/abs/2604.13733](http://arxiv.org/abs/2604.13733)
 - 2026-04-15, **Vision-and-Language Navigation for UAVs: Progress, Challenges, and a Research Roadmap**, Ji Pei Team, Paper: [http://arxiv.org/abs/2604.13654](http://arxiv.org/abs/2604.13654)
