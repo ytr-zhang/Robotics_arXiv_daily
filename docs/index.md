@@ -2337,6 +2337,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects**|Zhengzhong Tu Team|[2604.16272](http://arxiv.org/abs/2604.16272)|null|
+|**2026-04-17**|**Information Router for Mitigating Modality Dominance in Vision-Language Models**|Ghassan AlRegib Team|[2604.16264](http://arxiv.org/abs/2604.16264)|null|
+|**2026-04-17**|**Do Vision-Language Models Truly Perform Vision Reasoning? A Rigorous Study of the Modality Gap**|Zhiqi Shen Team|[2604.16256](http://arxiv.org/abs/2604.16256)|null|
+|**2026-04-17**|**Where Do Vision-Language Models Fail? World Scale Analysis for Image Geolocalization**|Shruti Vyas Team|[2604.16248](http://arxiv.org/abs/2604.16248)|null|
 |**2026-04-17**|**MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation**|Yifan Peng Team|[2604.16175](http://arxiv.org/abs/2604.16175)|null|
 |**2026-04-17**|**DenTab: A Dataset for Table Recognition and Visual QA on Real-World Dental Estimates**|Thierry Paquet Team|[2604.16099](http://arxiv.org/abs/2604.16099)|null|
 |**2026-04-17**|**AEGIS: Anchor-Enforced Gradient Isolation for Knowledge-Preserving Vision-Language-Action Fine-Tuning**|Guransh Singh Team|[2604.16067](http://arxiv.org/abs/2604.16067)|null|
@@ -8185,6 +8189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-17**|**FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation**|Jing Huo Team|[2604.16298](http://arxiv.org/abs/2604.16298)|null|
 |**2026-04-14**|**DeCoNav: Dialog enhanced Long-Horizon Collaborative Vision-Language Navigation**|Xuelong Li Team|[2604.12486](http://arxiv.org/abs/2604.12486)|null|
 |**2026-04-09**|**HiRO-Nav: Hybrid ReasOning Enables Efficient Embodied Navigation**|Chunyan Miao Team|[2604.08232](http://arxiv.org/abs/2604.08232)|null|
 |**2026-04-09**|**How Far Are Large Multimodal Models from Human-Level Spatial Action? A Benchmark for Goal-Oriented Embodied Navigation in Urban Airspace**|Xinlei Chen Team|[2604.07973](http://arxiv.org/abs/2604.07973)|null|
