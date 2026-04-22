@@ -634,6 +634,13 @@
 
 ## VLM
 
+- 2026-04-21, **InHabit: Leveraging Image Foundation Models for Scalable 3D Human Placement**, Gerard Pons-Moll Team, Paper: [http://arxiv.org/abs/2604.19673](http://arxiv.org/abs/2604.19673)
+- 2026-04-21, **A Gesture-Based Visual Learning Model for Acoustophoretic Interactions using a Swarm of AcoustoBots**, Sriram Subramanian Team, Paper: [http://arxiv.org/abs/2604.19643](http://arxiv.org/abs/2604.19643)
+- 2026-04-21, **CreatiParser: Generative Image Parsing of Raster Graphic Designs into Editable Layers**, Yongdong Zhang Team, Paper: [http://arxiv.org/abs/2604.19632](http://arxiv.org/abs/2604.19632)
+- 2026-04-21, **Multi-modal Reasoning with LLMs for Visual Semantic Arithmetic**, Qifeng Chen Team, Paper: [http://arxiv.org/abs/2604.19567](http://arxiv.org/abs/2604.19567)
+- 2026-04-21, **FOCAL: Filtered On-device Continuous Activity Logging for Efficient Personal Desktop Summarization**, Ruosong Yang Team, Paper: [http://arxiv.org/abs/2604.19541](http://arxiv.org/abs/2604.19541)
+- 2026-04-21, **GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation**, Dzmitry Tsetserukou Team, Paper: [http://arxiv.org/abs/2604.19522](http://arxiv.org/abs/2604.19522)
+- 2026-04-21, **Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies**, Sabine Hauert Team, Paper: [http://arxiv.org/abs/2604.19509](http://arxiv.org/abs/2604.19509)
 - 2026-04-21, **VCE: A zero-cost hallucination mitigation method of LVLMs via visual contrastive editing**, Xuelong Li Team, Paper: [http://arxiv.org/abs/2604.19412](http://arxiv.org/abs/2604.19412)
 - 2026-04-21, **Lost in Translation: Do LVLM Judges Generalize Across Languages?**, Jimmy Huang Team, Paper: [http://arxiv.org/abs/2604.19405](http://arxiv.org/abs/2604.19405)
 - 2026-04-21, **PLaMo 2.1-VL Technical Report**, Yoshihiro Yamada Team, Paper: [http://arxiv.org/abs/2604.19324](http://arxiv.org/abs/2604.19324)
@@ -1816,6 +1823,8 @@
 
 ## VLA
 
+- 2026-04-21, **VLA Foundry: A Unified Framework for Training Vision-Language-Action Models**, Katherine Liu Team, Paper: [http://arxiv.org/abs/2604.19728](http://arxiv.org/abs/2604.19728)
+- 2026-04-21, **SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**, Jiaqi Ma Team, Paper: [http://arxiv.org/abs/2604.19710](http://arxiv.org/abs/2604.19710), Code: **[https://spanvla.github.io/](https://spanvla.github.io/)**
 - 2026-04-20, **HELM: Harness-Enhanced Long-horizon Memory for Vision-Language-Action Manipulation**, Xianwei Li Team, Paper: [http://arxiv.org/abs/2604.18791](http://arxiv.org/abs/2604.18791)
 - 2026-04-20, **XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments**, Diange Yang Team, Paper: [http://arxiv.org/abs/2604.18484](http://arxiv.org/abs/2604.18484)
 - 2026-04-20, **Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models**, Jiangmeng Li Team, Paper: [http://arxiv.org/abs/2604.18107](http://arxiv.org/abs/2604.18107)
@@ -2204,6 +2213,7 @@
 
 ## Humanoid
 
+- 2026-04-21, **Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies**, Sabine Hauert Team, Paper: [http://arxiv.org/abs/2604.19509](http://arxiv.org/abs/2604.19509)
 - 2026-04-21, **Multi-Gait Learning for Humanoid Robots Using Reinforcement Learning with Selective Adversarial Motion Prior**, Boyang Xing Team, Paper: [http://arxiv.org/abs/2604.19102](http://arxiv.org/abs/2604.19102)
 - 2026-04-19, **Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking**, Marco Hutter Team, Paper: [http://arxiv.org/abs/2604.17335](http://arxiv.org/abs/2604.17335)
 - 2026-04-19, **A Rapid Deployment Pipeline for Autonomous Humanoid Grasping Based on Foundation Models**, Linqi Ye Team, Paper: [http://arxiv.org/abs/2604.17258](http://arxiv.org/abs/2604.17258)
@@ -2422,6 +2432,7 @@
 
 ## VLN-Navigation
 
+- 2026-04-21, **LiveVLN: Breaking the Stop-and-Go Loop in Vision-Language Navigation**, Feng Zheng Team, Paper: [http://arxiv.org/abs/2604.19536](http://arxiv.org/abs/2604.19536)
 - 2026-04-21, **Explore Like Humans: Autonomous Exploration with Online SG-Memo Construction for Embodied Agents**, Mu Xu Team, Paper: [http://arxiv.org/abs/2604.19034](http://arxiv.org/abs/2604.19034)
 - 2026-04-20, **Instruction-as-State: Environment-Guided and State-Conditioned Semantic Understanding for Embodied Navigation**, Jingwen Fu Team, Paper: [http://arxiv.org/abs/2604.18223](http://arxiv.org/abs/2604.18223)
 - 2026-04-19, **Dual-Anchoring: Addressing State Drift in Vision-Language Navigation**, Jianyi Liu Team, Paper: [http://arxiv.org/abs/2604.17473](http://arxiv.org/abs/2604.17473)
