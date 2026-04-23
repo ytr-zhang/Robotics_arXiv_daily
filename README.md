@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hanbyul Joo Team|[2604.20841](http://arxiv.org/abs/2604.20841)|**[link](https://snuvclab.github.io/devi/)**|
+|**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Wenchao Ding Team|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
+|**2026-04-22**|**Visual-Tactile Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly**|Shan Luo Team|[2604.20712](http://arxiv.org/abs/2604.20712)|null|
 |**2026-04-22**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Lin Shao Team|[2604.20689](http://arxiv.org/abs/2604.20689)|null|
 |**2026-04-22**|**Passive Variable Impedance For Shared Control**|Alin Albu-Schäffer Team|[2604.20557](http://arxiv.org/abs/2604.20557)|null|
 |**2026-04-22**|**Bimanual Robot Manipulation via Multi-Agent In-Context Learning**|Fabio Galasso Team|[2604.20348](http://arxiv.org/abs/2604.20348)|null|
@@ -2377,6 +2380,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Wenchao Ding Team|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
+|**2026-04-22**|**OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model**|Wanxiang Che Team|[2604.20806](http://arxiv.org/abs/2604.20806)|null|
+|**2026-04-22**|**R-CoV: Region-Aware Chain-of-Verification for Alleviating Object Hallucinations in LVLMs**|Bernt Schiele Team|[2604.20696](http://arxiv.org/abs/2604.20696)|null|
 |**2026-04-22**|**The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm**|Dikshant Kukreja Team|[2604.20665](http://arxiv.org/abs/2604.20665)|null|
 |**2026-04-22**|**Evian: Towards Explainable Visual Instruction-tuning Data Auditing**|Jiaheng Wei Team|[2604.20544](http://arxiv.org/abs/2604.20544)|null|
 |**2026-04-22**|**Fast-then-Fine: A Two-Stage Framework with Multi-Granular Representation for Cross-Modal Retrieval in Remote Sensing**|Wei Wang Team|[2604.20429](http://arxiv.org/abs/2604.20429)|null|
@@ -6439,6 +6445,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Wenchao Ding Team|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
 |**2026-04-22**|**Temporal Difference Calibration in Sequential Tasks: Application to Vision-Language-Action Models**|Aviv Tamar Team|[2604.20472](http://arxiv.org/abs/2604.20472)|null|
 |**2026-04-22**|**A Vision-Language-Action Model for Adaptive Ultrasound-Guided Needle Insertion and Needle Tracking**|Shing Shin Cheng Team|[2604.20347](http://arxiv.org/abs/2604.20347)|null|
 |**2026-04-22**|**Cortex 2.0: Grounding World Models in Real-World Industrial Deployment**|Pavan Upputuri Team|[2604.20246](http://arxiv.org/abs/2604.20246)|null|
@@ -7923,6 +7930,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hanbyul Joo Team|[2604.20841](http://arxiv.org/abs/2604.20841)|**[link](https://snuvclab.github.io/devi/)**|
 |**2026-04-22**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Lin Shao Team|[2604.20689](http://arxiv.org/abs/2604.20689)|null|
 |**2026-04-22**|**ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation**|Chenxi Xiao Team|[2604.20295](http://arxiv.org/abs/2604.20295)|null|
 |**2026-04-20**|**SpaceDex: Generalizable Dexterous Grasping in Tiered Workspaces**|Ning Tan Team|[2604.17888](http://arxiv.org/abs/2604.17888)|null|
@@ -8253,7 +8261,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-04-20**|**HALO: Hybrid Auto-encoded Locomotion with Learned Latent Dynamics, Poincaré Maps, and Regions of Attraction**|Aaron D. Ames Team|[2604.18887](http://arxiv.org/abs/2604.18887)|null|
-|**2026-04-20**|**Bounded Ratio Reinforcement Learning**|Andreas Krause Team|[2604.18578](http://arxiv.org/abs/2604.18578)|null|
+|**2026-04-22**|**Bounded Ratio Reinforcement Learning**|Andreas Krause Team|[2604.18578](http://arxiv.org/abs/2604.18578)|**[link](https://bounded-ratio-rl.github.io/brrl/)**|
 |**2026-04-19**|**Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking**|Marco Hutter Team|[2604.17335](http://arxiv.org/abs/2604.17335)|null|
 |**2026-04-13**|**A Foot Resistive Force Model for Legged Locomotion on Muddy Terrains**|Jingang Yi Team|[2604.12006](http://arxiv.org/abs/2604.12006)|null|
 |**2026-04-13**|**Simulator Adaptation for Sim-to-Real Learning of Legged Locomotion via Proprioceptive Distribution Matching**|Alan Fern Team|[2604.11090](http://arxiv.org/abs/2604.11090)|null|
