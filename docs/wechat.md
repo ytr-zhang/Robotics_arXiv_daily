@@ -672,6 +672,7 @@
 
 ## VLM
 
+- 2026-04-29, **World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning**, Jiajun Zhang Team, Paper: [http://arxiv.org/abs/2604.26934](http://arxiv.org/abs/2604.26934), Code: **[https://github.com/WanyueZhang-ai/World2VLM.](https://github.com/WanyueZhang-ai/World2VLM.)**
 - 2026-04-29, **Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance**, Wenbo Ding Team, Paper: [http://arxiv.org/abs/2604.26839](http://arxiv.org/abs/2604.26839)
 - 2026-04-29, **SynSur: An end-to-end generative pipeline for synthetic industrial surface defect generation and detection**, Saptarshi Neil Sinha Team, Paper: [http://arxiv.org/abs/2604.26633](http://arxiv.org/abs/2604.26633)
 - 2026-04-29, **Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models**, Chrysa Papagianni Team, Paper: [http://arxiv.org/abs/2604.26508](http://arxiv.org/abs/2604.26508)
