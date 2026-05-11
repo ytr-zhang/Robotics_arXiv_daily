@@ -1,4 +1,4 @@
-> Updated on 2026.05.10
+> Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,14 @@
 
 ## Manipulation
 
+- 2026-05-08, **TAVIS: A Benchmark for Egocentric Active Vision and Anticipatory Gaze in Imitation Learning**, Giacomo Spigler Team, Paper: [http://arxiv.org/abs/2605.07943](http://arxiv.org/abs/2605.07943)
+- 2026-05-08, **Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding**, Alexey Skrynnik Team, Paper: [http://arxiv.org/abs/2605.07637](http://arxiv.org/abs/2605.07637)
+- 2026-05-08, **How to utilize failure demo data?: Effective data selection for imitation learning using distribution differences in attention mechanism**, Tetsuya Ogata Team, Paper: [http://arxiv.org/abs/2605.07560](http://arxiv.org/abs/2605.07560)
+- 2026-05-08, **LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning**, Hao Chen Team, Paper: [http://arxiv.org/abs/2605.07505](http://arxiv.org/abs/2605.07505)
+- 2026-05-08, **Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation**, Mike Zheng Shou Team, Paper: [http://arxiv.org/abs/2605.07381](http://arxiv.org/abs/2605.07381)
+- 2026-05-08, **Neurosymbolic Imitation Learning with Human Guidance: A Privileged Information Approach**, Sriraam Natarajan Team, Paper: [http://arxiv.org/abs/2605.07166](http://arxiv.org/abs/2605.07166)
+- 2026-05-08, **Learning Visual Feature-Based World Models via Residual Latent Action**, Abdeslam Boularias Team, Paper: [http://arxiv.org/abs/2605.07079](http://arxiv.org/abs/2605.07079)
+- 2026-05-07, **Causal-Aware Foundation-Model for Bilevel Optimization in Discrete Choice Settings**, Jayant Kalagnanam Team, Paper: [http://arxiv.org/abs/2605.06941](http://arxiv.org/abs/2605.06941)
 - 2026-05-07, **ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting**, Moritz Bächer Team, Paper: [http://arxiv.org/abs/2605.06593](http://arxiv.org/abs/2605.06593)
 - 2026-05-07, **OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation**, Wenbo Ding Team, Paper: [http://arxiv.org/abs/2605.06481](http://arxiv.org/abs/2605.06481)
 - 2026-05-07, **Toward Visually Realistic Simulation: A Benchmark for Evaluating Robot Manipulation in Simulation**, Beibei Wang Team, Paper: [http://arxiv.org/abs/2605.06311](http://arxiv.org/abs/2605.06311)
@@ -709,10 +717,30 @@
 - 2026-01-28, **STORM: Slot-based Task-aware Object-centric Representation for robotic Manipulation**, Liming Chen Team, Paper: [http://arxiv.org/abs/2601.20381](http://arxiv.org/abs/2601.20381)
 - 2026-01-28, **Demonstration-Free Robotic Control via LLM Agents**, Tiffany J. Hwu Team, Paper: [http://arxiv.org/abs/2601.20334](http://arxiv.org/abs/2601.20334)
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## VLM
 
+- 2026-05-08, **Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment**, Wenzhao Zheng Team, Paper: [http://arxiv.org/abs/2605.08064](http://arxiv.org/abs/2605.08064), Code: **[https://wzzheng.net/Proxy3D](https://wzzheng.net/Proxy3D)**
+- 2026-05-08, **Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models**, Jinsong Su Team, Paper: [http://arxiv.org/abs/2605.08031](http://arxiv.org/abs/2605.08031)
+- 2026-05-08, **MedVIGIL: Evaluating Trustworthy Medical VLMs Under Broken Visual Evidence**, Xiang Li Team, Paper: [http://arxiv.org/abs/2605.07919](http://arxiv.org/abs/2605.07919)
+- 2026-05-08, **GazeVLM: Active Vision via Internal Attention Control for Multimodal Reasoning**, Mattia Rigotti Team, Paper: [http://arxiv.org/abs/2605.07817](http://arxiv.org/abs/2605.07817)
+- 2026-05-08, **Operating Within the Operational Design Domain: Zero-Shot Perception with Vision-Language Models**, Plachetka Christopher Team, Paper: [http://arxiv.org/abs/2605.07649](http://arxiv.org/abs/2605.07649)
+- 2026-05-08, **LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation**, Wei Han Team, Paper: [http://arxiv.org/abs/2605.07640](http://arxiv.org/abs/2605.07640)
+- 2026-05-08, **PolarVLM: Bridging the Semantic-Physical Gap in Vision-Language Models**, Zhanyu Ma Team, Paper: [http://arxiv.org/abs/2605.07574](http://arxiv.org/abs/2605.07574)
+- 2026-05-08, **Beyond GSD-as-Token: Continuous Scale Conditioning for Remote Sensing VLMs**, Yawei Li Team, Paper: [http://arxiv.org/abs/2605.07562](http://arxiv.org/abs/2605.07562)
+- 2026-05-08, **From Pixels to Prompts: Vision-Language Models**, Khang Hoang Nhat Vo Team, Paper: [http://arxiv.org/abs/2605.07544](http://arxiv.org/abs/2605.07544)
+- 2026-05-08, **Hierarchical Dual-Subspace Decoupling for Continual Learning in Vision-Language Models**, Cheng Deng Team, Paper: [http://arxiv.org/abs/2605.07512](http://arxiv.org/abs/2605.07512)
+- 2026-05-08, **DIMoE-Adapters: Dynamic Expert Evolution for Continual Learning in Vision-Language Models**, Cheng Deng Team, Paper: [http://arxiv.org/abs/2605.07494](http://arxiv.org/abs/2605.07494)
+- 2026-05-08, **EditRefiner: A Human-Aligned Agentic Framework for Image Editing Refinement**, Guangtao Zhai Team, Paper: [http://arxiv.org/abs/2605.07457](http://arxiv.org/abs/2605.07457)
+- 2026-05-08, **Sparse Autoencoders as Plug-and-Play Firewalls for Adversarial Attack Detection in VLMs**, Daisuke Kawahara Team, Paper: [http://arxiv.org/abs/2605.07447](http://arxiv.org/abs/2605.07447)
+- 2026-05-08, **GPO-V: Jailbreak Diffusion Vision Language Model by Global Probability Optimization**, Wenjie Wang Team, Paper: [http://arxiv.org/abs/2605.07399](http://arxiv.org/abs/2605.07399)
+- 2026-05-08, **Weather-Robust Scene Semantics with Vision-Aligned 4D Radar**, Christoffer Heckman Team, Paper: [http://arxiv.org/abs/2605.07367](http://arxiv.org/abs/2605.07367)
+- 2026-05-08, **Task-Oriented Communication for Human Action Understanding via Edge-Cloud Co-Inference**, Jiawei Shao Team, Paper: [http://arxiv.org/abs/2605.07354](http://arxiv.org/abs/2605.07354)
+- 2026-05-08, **Structured Role-Aware Policy Optimization for Multimodal Reasoning**, Difan Zou Team, Paper: [http://arxiv.org/abs/2605.07274](http://arxiv.org/abs/2605.07274)
+- 2026-05-08, **Uncovering and Shaping the Latent Representation of 3D Scene Topology in Vision-Language Models**, Wei Gao Team, Paper: [http://arxiv.org/abs/2605.07148](http://arxiv.org/abs/2605.07148)
+- 2026-05-08, **Fine-tuning a vision-language model for fracture-surface morphology recognition**, Hyunseok Oh Team, Paper: [http://arxiv.org/abs/2605.07145](http://arxiv.org/abs/2605.07145)
+- 2026-05-08, **Membership Inference Attacks on Vision-Language-Action Models**, Amir Houmansadr Team, Paper: [http://arxiv.org/abs/2605.07088](http://arxiv.org/abs/2605.07088)
 - 2026-05-07, **GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs**, Shishir K. Shah Team, Paper: [http://arxiv.org/abs/2605.06477](http://arxiv.org/abs/2605.06477)
 - 2026-05-07, **A Regime Theory of Controller Class Selection for LLM Action Decisions**, Honghan Wu Team, Paper: [http://arxiv.org/abs/2605.06339](http://arxiv.org/abs/2605.06339)
 - 2026-05-07, **Event-Causal RAG: A Retrieval-Augmented Generation Framework for Long Video Reasoning in Complex Scenarios**, Erwei Yin Team, Paper: [http://arxiv.org/abs/2605.06185](http://arxiv.org/abs/2605.06185)
@@ -2053,13 +2081,22 @@
 - 2026-01-30, **Countering the Over-Reliance Trap: Mitigating Object Hallucination for LVLMs via a Self-Validation Framework**, Jinsong Su Team, Paper: [http://arxiv.org/abs/2601.22451](http://arxiv.org/abs/2601.22451), Code: **[https://github.com/Liushiyu-0709/SelfVal](https://github.com/Liushiyu-0709/SelfVal)**
 - 2026-01-29, **Jailbreaks on Vision Language Model via Multimodal Reasoning**, Yuguang Yao Team, Paper: [http://arxiv.org/abs/2601.22398](http://arxiv.org/abs/2601.22398)
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## VLA
 
+- 2026-05-08, **One Token Per Frame: Reconsidering Visual Bandwidth in World Models for VLA Policy**, Bin Liu Team, Paper: [http://arxiv.org/abs/2605.07931](http://arxiv.org/abs/2605.07931)
+- 2026-05-08, **EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting**, Daehee Park Team, Paper: [http://arxiv.org/abs/2605.07642](http://arxiv.org/abs/2605.07642)
+- 2026-05-08, **ForgeVLA: Federated Vision-Language-Action Learning without Language Annotations**, Jiancheng Lyu Team, Paper: [http://arxiv.org/abs/2605.07474](http://arxiv.org/abs/2605.07474)
+- 2026-05-08, **Escaping the Diversity Trap in Robotic Manipulation via Anchor-Centric Adaptation**, Mike Zheng Shou Team, Paper: [http://arxiv.org/abs/2605.07381](http://arxiv.org/abs/2605.07381)
+- 2026-05-08, **AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models**, Hao Dong Team, Paper: [http://arxiv.org/abs/2605.07308](http://arxiv.org/abs/2605.07308)
+- 2026-05-08, **BioProVLA-Agent: An Affordable, Protocol-Driven, Vision-Enhanced VLA-Enabled Embodied Multi-Agent System with Closed-Loop-Capable Reasoning for Biological Laboratory Manipulation**, Zhe Liu Team, Paper: [http://arxiv.org/abs/2605.07306](http://arxiv.org/abs/2605.07306)
+- 2026-05-08, **Sword: Style-Robust World Models as Simulators via Dynamic Latent Bootstrapping for VLA Policy Post-Training**, Sheng Wen Team, Paper: [http://arxiv.org/abs/2605.07288](http://arxiv.org/abs/2605.07288)
+- 2026-05-08, **Membership Inference Attacks on Vision-Language-Action Models**, Amir Houmansadr Team, Paper: [http://arxiv.org/abs/2605.07088](http://arxiv.org/abs/2605.07088)
+- 2026-05-07, **HumanNet: Scaling Human-centric Video Learning to One Million Hours**, Daquan Zhou Team, Paper: [http://arxiv.org/abs/2605.06747](http://arxiv.org/abs/2605.06747), Code: **[https://github.com/DAGroup-PKU/HumanNet](https://github.com/DAGroup-PKU/HumanNet)**
 - 2026-05-07, **OA-WAM: Object-Addressable World Action Model for Robust Robot Manipulation**, Wenbo Ding Team, Paper: [http://arxiv.org/abs/2605.06481](http://arxiv.org/abs/2605.06481)
 - 2026-05-07, **Toward Visually Realistic Simulation: A Benchmark for Evaluating Robot Manipulation in Simulation**, Beibei Wang Team, Paper: [http://arxiv.org/abs/2605.06311](http://arxiv.org/abs/2605.06311)
-- 2026-05-07, **VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts**, Li Zhao Team, Paper: [http://arxiv.org/abs/2605.06175](http://arxiv.org/abs/2605.06175)
+- 2026-05-08, **VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts**, Li Zhao Team, Paper: [http://arxiv.org/abs/2605.06175](http://arxiv.org/abs/2605.06175)
 - 2026-05-07, **MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware**, Shubhanshu Khatana Team, Paper: [http://arxiv.org/abs/2605.05945](http://arxiv.org/abs/2605.05945)
 - 2026-05-07, **TriRelVLA: Triadic Relational Structure for Generalizable Embodied Manipulation**, Gim Hee Lee Team, Paper: [http://arxiv.org/abs/2605.05714](http://arxiv.org/abs/2605.05714)
 - 2026-05-06, **ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation**, Liqiang Nie Team, Paper: [http://arxiv.org/abs/2605.05126](http://arxiv.org/abs/2605.05126), Code: **[https://github.com/iLearn-Lab/CVPR26-ConsisVLA-4D](https://github.com/iLearn-Lab/CVPR26-ConsisVLA-4D)**
@@ -2067,7 +2104,7 @@
 - 2026-05-06, **CRAFT: Counterfactual-to-Interactive Reinforcement Fine-Tuning for Driving Policies**, Sifa Zheng Team, Paper: [http://arxiv.org/abs/2605.04470](http://arxiv.org/abs/2605.04470)
 - 2026-05-05, **Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation**, Nan Duan Team, Paper: [http://arxiv.org/abs/2605.04128](http://arxiv.org/abs/2605.04128)
 - 2026-05-06, **RLDX-1 Technical Report**, Jinwoo Shin Team, Paper: [http://arxiv.org/abs/2605.03269](http://arxiv.org/abs/2605.03269), Code: **[https://rlwrld.ai/rldx-1](https://rlwrld.ai/rldx-1)**
-- 2026-05-04, **MolmoAct2: Action Reasoning Models for Real-world Deployment**, Ranjay Krishna Team, Paper: [http://arxiv.org/abs/2605.02881](http://arxiv.org/abs/2605.02881), Code: **[https://allenai.org/blog/molmoact2](https://allenai.org/blog/molmoact2)**
+- 2026-05-08, **MolmoAct2: Action Reasoning Models for Real-world Deployment**, Ranjay Krishna Team, Paper: [http://arxiv.org/abs/2605.02881](http://arxiv.org/abs/2605.02881), Code: **[https://allenai.org/blog/molmoact2](https://allenai.org/blog/molmoact2)**
 - 2026-05-04, **Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation**, Chang Xu Team, Paper: [http://arxiv.org/abs/2605.02757](http://arxiv.org/abs/2605.02757)
 - 2026-05-04, **Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference**, Hai Li Team, Paper: [http://arxiv.org/abs/2605.02739](http://arxiv.org/abs/2605.02739)
 - 2026-05-03, **VILAS: A VLA-Integrated Low-cost Architecture with Soft Grasping for Robotic Manipulation**, Lifeng Zhou Team, Paper: [http://arxiv.org/abs/2605.02037](http://arxiv.org/abs/2605.02037)
@@ -2498,7 +2535,7 @@
 - 2026-01-22, **IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance**, Michael S Ryoo Team, Paper: [http://arxiv.org/abs/2601.16207](http://arxiv.org/abs/2601.16207)
 - 2026-01-22, **Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**, Jinwei Gu Team, Paper: [http://arxiv.org/abs/2601.16163](http://arxiv.org/abs/2601.16163)
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## Humanoid
 
@@ -2654,7 +2691,7 @@
 - 2026-01-12, **AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers**, Zecui Zeng Team, Paper: [http://arxiv.org/abs/2601.07284](http://arxiv.org/abs/2601.07284)
 - 2026-01-11, **RSLCPP -- Deterministic Simulations Using ROS 2**, Markus Lienkamp Team, Paper: [http://arxiv.org/abs/2601.07052](http://arxiv.org/abs/2601.07052)
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## Humanoid-Locomotion
 
@@ -2739,12 +2776,13 @@
 - 2025-11-27, **Beyond Egocentric Limits: Multi-View Depth-Based Learning for Robust Quadrupedal Locomotion**, Wael Suleiman Team, Paper: [http://arxiv.org/abs/2511.22744](http://arxiv.org/abs/2511.22744), Code: **[https://anonymous.4open.science/r/multiview-parkour-6FB8](https://anonymous.4open.science/r/multiview-parkour-6FB8)**
 - 2026-01-29, **HAFO: A Force-Adaptive Control Framework for Humanoid Robots in Intense Interaction Environments**, Bin He Team, Paper: [http://arxiv.org/abs/2511.20275](http://arxiv.org/abs/2511.20275)
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## VLN-Navigation
 
+- 2026-05-08, **PathPainter: Transferring the Generalization Ability of Image Generation Models to Embodied Navigation**, Fei Gao Team, Paper: [http://arxiv.org/abs/2605.07496](http://arxiv.org/abs/2605.07496)
 - 2026-05-07, **Cross-Modal Navigation with Multi-Agent Reinforcement Learning**, Christopher Amato Team, Paper: [http://arxiv.org/abs/2605.06595](http://arxiv.org/abs/2605.06595)
-- 2026-05-07, **NavOne: One-Step Global Planning for Vision-Language Navigation on Top-Down Maps**, Xuemiao Xu Team, Paper: [http://arxiv.org/abs/2605.06317](http://arxiv.org/abs/2605.06317)
+- 2026-05-08, **NavOne: One-Step Global Planning for Vision-Language Navigation on Top-Down Maps**, Xuemiao Xu Team, Paper: [http://arxiv.org/abs/2605.06317](http://arxiv.org/abs/2605.06317)
 - 2026-05-03, **Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning**, Shuqiang Jiang Team, Paper: [http://arxiv.org/abs/2605.01736](http://arxiv.org/abs/2605.01736)
 - 2026-04-30, **SpaAct: Spatially-Activated Transition Learning with Curriculum Adaptation for Vision-Language Navigation**, Nanning Zheng Team, Paper: [http://arxiv.org/abs/2604.27620](http://arxiv.org/abs/2604.27620)
 - 2026-04-30, **World2Minecraft: Occupancy-Driven Simulated Scenes Construction**, Xin Tan Team, Paper: [http://arxiv.org/abs/2604.27578](http://arxiv.org/abs/2604.27578)
@@ -2841,7 +2879,7 @@
 - 2026-01-08, **ImagineNav++: Prompting Vision-Language Models as Embodied Navigator through Scene Imagination**, Changyin Sun Team, Paper: [http://arxiv.org/abs/2512.17435](http://arxiv.org/abs/2512.17435)
 - 2025-12-17, **HERO: Hierarchical Traversable 3D Scene Graphs for Embodied Navigation Among Movable Obstacles**, Renjing Xu Team, Paper: [http://arxiv.org/abs/2512.15047](http://arxiv.org/abs/2512.15047)
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## VLA-Navigation
 
@@ -2850,7 +2888,7 @@
 - 2025-08-14, **CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model**, Hao Dong Team, Paper: [http://arxiv.org/abs/2508.10416](http://arxiv.org/abs/2508.10416)
 - 2024-07-12, **Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs**, Jie Tan Team, Paper: [http://arxiv.org/abs/2407.07775](http://arxiv.org/abs/2407.07775)
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## Dexterous
 
@@ -2982,7 +3020,7 @@
 - 2025-12-17, **ISS Policy : Scalable Diffusion Policy with Implicit Scene Supervision**, Jie Mei Team, Paper: [http://arxiv.org/abs/2512.15020](http://arxiv.org/abs/2512.15020)
 - 2025-12-15, **World Models Can Leverage Human Videos for Dexterous Manipulation**, Yann LeCun Team, Paper: [http://arxiv.org/abs/2512.13644](http://arxiv.org/abs/2512.13644)
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## Semantic-SLAM
 
@@ -3012,5 +3050,5 @@
 - 2025-10-03, **SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**, Vijay Kumar Team, Paper: [http://arxiv.org/abs/2406.17249](http://arxiv.org/abs/2406.17249)
 - 2024-06-09, **MAP-ADAPT: Real-Time Quality-Adaptive Semantic 3D Maps**, Iro Armeni Team, Paper: [http://arxiv.org/abs/2406.05849](http://arxiv.org/abs/2406.05849)
 
-<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
