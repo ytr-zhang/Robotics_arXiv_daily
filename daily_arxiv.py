@@ -7,7 +7,6 @@ import logging
 import argparse
 import datetime
 import requests
-import subprocess
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -27,7 +26,7 @@ def load_config(config_file:str) -> dict:
         keywords = dict()
         EXCAPE = '\"'
         QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
+        OR = ' OR '
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
@@ -40,7 +39,7 @@ def load_config(config_file:str) -> dict:
                     ret += OR
             return ret
         for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+            keywords[k] = v['query'] if 'query' in v else parse_filters(v['filters'])
         return keywords
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader) 
@@ -87,7 +86,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query="slam", max_results=2, client=None):
     """
     @param topic: str
     @param query: str
@@ -102,7 +101,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    if client is None:
+        client = arxiv.Client()
+    for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -173,10 +174,11 @@ def update_paper_links(filename):
     def parse_arxiv_string(s):
         parts = s.split("|")
         date = parts[1].strip()
-        title = parts[2].strip()
-        authors = parts[3].strip()
-        arxiv_id = parts[4].strip()
-        code = parts[5].strip()
+        # Titles can contain literal pipes, e.g. [De|Re]constructing.
+        title = "|".join(parts[2:-4]).strip()
+        authors = parts[-4].strip()
+        arxiv_id = parts[-3].strip()
+        code = parts[-2].strip()
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         return date,title,authors,arxiv_id,code
 
@@ -193,6 +195,10 @@ def update_paper_links(filename):
             logging.info(f'keywords = {keywords}')
             for paper_id,contents in v.items():
                 contents = str(contents)
+
+                # WeChat stores Markdown list entries, not table rows.
+                if not contents.startswith('|'):
+                    continue
 
                 update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
 
@@ -379,10 +385,12 @@ def demo(**config):
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
+        # Share the client so its rate limit also applies between topics.
+        client = arxiv.Client(page_size=max_results, delay_seconds=3.0, num_retries=3)
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+                                            max_results = max_results, client=client)
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
@@ -437,13 +445,3 @@ if __name__ == "__main__":
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
-
-    try:
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", "commit"], check=True)
-        subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
-        print("Git commands executed successfully.")
-    except subprocess.CalledProcessError as e:
-        pass
-
-    

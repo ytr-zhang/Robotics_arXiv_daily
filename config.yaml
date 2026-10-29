@@ -22,6 +22,23 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    # Candidate feeds; keywords cannot establish importance or official authorship.
+    "LLM-for-Embodied-AI":
+        query: >-
+            (all:"large language model" OR all:"large language models" OR all:LLM OR all:LLMs)
+            AND (cat:cs.RO OR ti:robot OR ti:robotic OR ti:robotics OR ti:humanoid
+            OR all:"embodied AI" OR all:"embodied intelligence"
+            OR all:"embodied agent" OR all:"embodied agents"
+            OR all:"robot manipulation" OR all:"robotic manipulation"
+            OR all:"robot navigation" OR all:"task and motion planning")
+    "LLM-Technical-Reports":
+        query: >-
+            (ti:"technical report" OR ti:"model report" OR ti:"system card")
+            AND (ti:"language model" OR ti:"language models" OR ti:LLM OR ti:LLMs
+            OR ti:GPT OR ti:Gemini OR ti:Claude OR ti:Llama OR ti:Qwen
+            OR ti:DeepSeek OR ti:Kimi OR ti:GLM OR ti:Mistral OR ti:Gemma
+            OR ti:Hunyuan OR ti:MiniMax OR ti:MiMo OR ti:ERNIE OR ti:OLMo
+            OR ti:Nemotron OR ti:Seed OR ti:Doubao OR ti:Step)
     # --------- My Keywords ---------
     "Manipulation":
         filters: ["Robot Manipulation", "Robotic Manipulation", "Robot Learning", "Imitation Learning"]

@@ -13,6 +13,14 @@ on:
 #     branches:
 #     - main
 
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: paper-updates
+  cancel-in-progress: false
+
 env:
 
   GITHUB_USER_NAME: Jiangran Lyu
@@ -26,6 +34,8 @@ jobs:
     name: update
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    if: github.ref == 'refs/heads/main'
     
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -40,9 +50,10 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install arxiv
-          pip install requests
-          pip install pyyaml
+          python -m pip install -r requirements.txt
+
+      - name: Run regression tests
+        run: python -m unittest discover -s tests -v
           
       - name: Run daily arxiv 
         run: |
@@ -57,3 +68,9 @@ jobs:
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
+
+      # GITHUB_TOKEN pushes do not automatically trigger legacy Pages builds.
+      - name: Request GitHub Pages build
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"
