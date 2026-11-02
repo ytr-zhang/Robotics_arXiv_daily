@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Manipulation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Mechanistic Interpretability for End-to-End Self-Driving**|Rohan Paleja Team|[2610.41185](http://arxiv.org/abs/2610.41185)|**[link](https://mgagvani.github.io/mechanistic-interpretability-for-e2e-driving/)**|
+|**2026-10-29**|**CuPIQP: A Batched and Differentiable QP Solver on GPUs for Robot Learning and Control**|Colin N. Jones Team|[2610.41021](http://arxiv.org/abs/2610.41021)|null|
+|**2026-10-29**|**STAR: Steering Action Representations during Inference**|Yiwu Zhong Team|[2610.41009](http://arxiv.org/abs/2610.41009)|null|
+|**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Jim Gibbons Team|[2610.40828](http://arxiv.org/abs/2610.40828)|null|
+|**2026-10-29**|**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**|Xiangyu Yue Team|[2610.40799](http://arxiv.org/abs/2610.40799)|null|
+|**2026-10-29**|**WorldBridge: Bridging Video and Action for Task Generalization in World Action Models**|Duo Zheng Team|[2610.40748](http://arxiv.org/abs/2610.40748)|**[link](https://worldbridge-jd.github.io/)**|
 |**2026-10-29**|**SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing**|Yiyue Luo Team|[2610.40646](http://arxiv.org/abs/2610.40646)|null|
 |**2026-10-29**|**HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model**|Xiangbo Shu Team|[2610.40373](http://arxiv.org/abs/2610.40373)|null|
 |**2026-10-29**|**JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning**|Yi Fang Team|[2610.40356](http://arxiv.org/abs/2610.40356)|null|
@@ -2518,6 +2524,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Hawkeye: Reading Illegible Text with Vision Language Models**|Kang G. Shin Team|[2610.41254](http://arxiv.org/abs/2610.41254)|**[link](https://byron123t.github.io/hawkeye/)**|
+|**2026-10-30**|**TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents**|Michael Bi Mi Team|[2610.41216](http://arxiv.org/abs/2610.41216)|**[link](https://garfield-kh.github.io/TinyAstral/)**|
+|**2026-10-30**|**LLM Detoxification via Transition-Aware Reward-Guided Representation Sampling**|Dacheng Tao Team|[2610.41165](http://arxiv.org/abs/2610.41165)|null|
+|**2026-10-29**|**Grounding Image Composition with Label-Conditioned Visual Evidence**|Markus Seidl Team|[2610.41080](http://arxiv.org/abs/2610.41080)|null|
+|**2026-10-29**|**FieldGuideRAG: Image-Grounded GraphRAG for Fine-Grained Recognition with Vision-Language Models**|Peihua Mai Team|[2610.40971](http://arxiv.org/abs/2610.40971)|null|
+|**2026-10-29**|**Drone-PUR: From Visual Clue Discovery to Understanding and Reasoning in UAV Scenes**|Pengfei Zhu Team|[2610.40801](http://arxiv.org/abs/2610.40801)|null|
+|**2026-10-29**|**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**|Xiangyu Yue Team|[2610.40799](http://arxiv.org/abs/2610.40799)|null|
 |**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Egor Bondarau Team|[2610.40580](http://arxiv.org/abs/2610.40580)|**[link](https://github.com/jacomof/RADIOlogy)**|
 |**2026-10-29**|**VeriCUA: Verification as Agentic Exploration for Computer-Using Agents**|Pritish Kamath Team|[2610.40578](http://arxiv.org/abs/2610.40578)|null|
 |**2026-10-29**|**Textual Response-Aware Guidance for Zero-Shot Adversarial Robustness of Vision-Language Models**|Zheng Zhang Team|[2610.40309](http://arxiv.org/abs/2610.40309)|null|
@@ -6859,6 +6872,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**STAR: Steering Action Representations during Inference**|Yiwu Zhong Team|[2610.41009](http://arxiv.org/abs/2610.41009)|null|
+|**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Jim Gibbons Team|[2610.40828](http://arxiv.org/abs/2610.40828)|null|
+|**2026-10-29**|**CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents**|Xiangyu Yue Team|[2610.40799](http://arxiv.org/abs/2610.40799)|null|
 |**2026-10-29**|**Gym-Anything for Robotics: Scaling physical simulations with digital agents**|Sean Welleck Team|[2610.40565](http://arxiv.org/abs/2610.40565)|null|
 |**2026-10-29**|**PhysVLMM: Interaction-Conditioned Physical Belief Maps for Articulated Objects in Robot Scene Maps**|Dibyendu Ghosh Team|[2610.40539](http://arxiv.org/abs/2610.40539)|null|
 |**2026-10-29**|**BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing**|Kaizhe Hu Team|[2610.40532](http://arxiv.org/abs/2610.40532)|null|
@@ -8008,6 +8024,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**DyCraft: An Agentic System for Long-Horizon 4D Scene Generation**|Jiajun Wu Team|[2610.40754](http://arxiv.org/abs/2610.40754)|**[link](https://dy-craft.github.io/)**|
 |**2026-10-29**|**Humanoid Dodgeball: Learning Fast Dynamic Obstacle Avoidance Motions for Humanoids**|Shuzhi Sam Ge Team|[2610.40003](http://arxiv.org/abs/2610.40003)|null|
 |**2026-10-29**|**ScheduleGen: Demonstration Generation via Skill Scheduling for Multi-Arm Imitation Learning**|Caelan Garrett Team|[2610.39429](http://arxiv.org/abs/2610.39429)|**[link](https://schedulegen.github.io/)**|
 |**2026-10-29**|**SONIC-K1: Porting a Universal Humanoid Motion Tracker to a Small Humanoid on a Single GPU**|Jong-Hoon Kim Team|[2610.39327](http://arxiv.org/abs/2610.39327)|**[link](https://kyry.me/sonic-k1)**|
@@ -8510,6 +8527,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Contact Imitation Interface: Transferring Dexterous Skills by Showing How Contact Unfolds**|Lin Shao Team|[2610.41028](http://arxiv.org/abs/2610.41028)|**[link](https://nus-lins-lab.github.io/CIMIWeb/)**|
+|**2026-10-29**|**From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation**|Jim Gibbons Team|[2610.40828](http://arxiv.org/abs/2610.40828)|null|
 |**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Huazhe Xu Team|[2610.40349](http://arxiv.org/abs/2610.40349)|null|
 |**2026-10-29**|**AcrossDEX 1.0: From Human Motion Pretraining to Bimanual Dexterous Manipulation across Hand Embodiments**|Nan Wu Team|[2610.40210](http://arxiv.org/abs/2610.40210)|null|
 |**2026-10-29**|**Coupled Guidance for Flow Matching**|Amir Rasouli Team|[2610.40109](http://arxiv.org/abs/2610.40109)|null|
@@ -8989,7 +9008,7 @@ layout: default
 |**2026-10-27**|**MemVLN: Streaming Episodic Memory for Vision-Language Navigation**|Baoxiong Jia Team|[2610.35066](http://arxiv.org/abs/2610.35066)|**[link](https://memvln.github.io/)**|
 |**2026-10-25**|**ScheNav: Schematic-Guided Object Goal Navigation**|Yunde Jia Team|[2610.34286](http://arxiv.org/abs/2610.34286)|null|
 |**2026-10-25**|**Explaining Navigation Decisions: Stage-Aware Visual Attribution for Vision-Language Navigation**|Xinbo Gao Team|[2610.34028](http://arxiv.org/abs/2610.34028)|null|
-|**2026-10-24**|**MOON: Learning When to Forget and How to Move On in Vision-and-Language Navigation**|Zhipeng Zhang Team|[2610.33546](http://arxiv.org/abs/2610.33546)|null|
+|**2026-10-30**|**MOON: Learning When to Forget and How to Move On in Vision-and-Language Navigation**|Zhipeng Zhang Team|[2610.33546](http://arxiv.org/abs/2610.33546)|null|
 |**2026-10-23**|**SP-Guide: Enhancing Aerial Vision-Language Navigation with Spatial Priors**|Xitong Li Team|[2610.32697](http://arxiv.org/abs/2610.32697)|null|
 |**2026-10-22**|**See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space**|Tong Yang Team|[2610.31762](http://arxiv.org/abs/2610.31762)|**[link](https://wang-yinxi.github.io/representnav/)**|
 |**2026-10-22**|**Asking Less, Adapting Better: Feedback-Efficient Test-Time Adaptation for Vision-and-Language Navigation**|Mingkui Tan Team|[2610.30643](http://arxiv.org/abs/2610.30643)|null|
@@ -9161,6 +9180,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents**|Michael Bi Mi Team|[2610.41216](http://arxiv.org/abs/2610.41216)|**[link](https://garfield-kh.github.io/TinyAstral/)**|
+|**2026-10-29**|**Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense**|Mohammad Javad Khojasteh Team|[2610.41044](http://arxiv.org/abs/2610.41044)|**[link](https://github.com/the-kas-lab/consensus-within-competition-between)**|
 |**2026-10-29**|**The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables**|Behnam Moradi Team|[2610.40370](http://arxiv.org/abs/2610.40370)|null|
 |**2026-10-29**|**LLM-guided Planar Loco-Manipulation for Quadruped Robots**|Francesco Braghin Team|[2610.40248](http://arxiv.org/abs/2610.40248)|null|
 |**2026-10-29**|**Teaching a Tree to Recover: Online Distillation of an LLM Supervisor with Counterfactual Replay**|Knut Åkesson Team|[2610.39775](http://arxiv.org/abs/2610.39775)|null|
