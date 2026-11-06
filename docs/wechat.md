@@ -20,12 +20,20 @@
 
 ## Manipulation
 
+- 2026-11-05, **OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions**, Roberto Martín-Martín Team, Paper: [http://arxiv.org/abs/2611.08462](http://arxiv.org/abs/2611.08462)
+- 2026-11-05, **SLA: Scaling Spatial-Language-Action Model via Continual Pre-training**, Haoang Li Team, Paper: [http://arxiv.org/abs/2611.08373](http://arxiv.org/abs/2611.08373), Code: **[https://SLA.github.io/](https://SLA.github.io/)**
+- 2026-11-05, **MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation**, Roberto Martín-Martín Team, Paper: [http://arxiv.org/abs/2611.08372](http://arxiv.org/abs/2611.08372), Code: **[https://robin-lab.cs.utexas.edu/momasplat](https://robin-lab.cs.utexas.edu/momasplat)**
+- 2026-11-05, **Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**, Daquan Zhou Team, Paper: [http://arxiv.org/abs/2611.08318](http://arxiv.org/abs/2611.08318), Code: **[https://dagroup-pku.github.io/PyRUA-Lean/RSIJudge](https://dagroup-pku.github.io/PyRUA-Lean/RSIJudge)**
+- 2026-11-05, **RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines**, Alessandra Russo Team, Paper: [http://arxiv.org/abs/2611.08308](http://arxiv.org/abs/2611.08308)
+- 2026-11-05, **Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**, Laura A. Hallock Team, Paper: [http://arxiv.org/abs/2611.08295](http://arxiv.org/abs/2611.08295)
+- 2026-11-05, **Aligning Policy Encoders with a Shape Teacher**, Artem Moskalev Team, Paper: [http://arxiv.org/abs/2611.08275](http://arxiv.org/abs/2611.08275)
+- 2026-11-05, **Wireless Link Scheduling with Graph Signal Diffusion**, Alejandro Ribeiro Team, Paper: [http://arxiv.org/abs/2611.08274](http://arxiv.org/abs/2611.08274)
 - 2026-11-05, **Structure from Collision via Hypothesis-Space Reasoning**, Takuhiro Kaneko Team, Paper: [http://arxiv.org/abs/2611.07900](http://arxiv.org/abs/2611.07900), Code: **[https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/sfc-hypothesis/](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/sfc-hypothesis/)**
 - 2026-11-05, **TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**, Nathan F. Lepora Team, Paper: [http://arxiv.org/abs/2611.07881](http://arxiv.org/abs/2611.07881)
 - 2026-11-05, **Closed-Loop Physics-Based Manipulation Evaluation at a Commodity Price: What 4.4 L4 GPU hours at $3.50 Buys You**, Diana Rypkema Team, Paper: [http://arxiv.org/abs/2611.07441](http://arxiv.org/abs/2611.07441)
 - 2026-11-05, **VREgo: Consumer VR Headsets for Learning Robot Manipulation from Egocentric Demonstrations**, Liuchuan Yu Team, Paper: [http://arxiv.org/abs/2611.07272](http://arxiv.org/abs/2611.07272)
 - 2026-11-04, **Rethinking Self-Repair in Code-as-Policy Agents: What Drives Retry Success?**, Ayushman Singh Team, Paper: [http://arxiv.org/abs/2611.06863](http://arxiv.org/abs/2611.06863)
-- 2026-11-04, **Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**, Daquan Zhou Team, Paper: [http://arxiv.org/abs/2611.06817](http://arxiv.org/abs/2611.06817), Code: **[https://github.com/DAGroup-PKU/HumanNet/tree/open-humanscale](https://github.com/DAGroup-PKU/HumanNet/tree/open-humanscale)**
+- 2026-11-05, **Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**, Daquan Zhou Team, Paper: [http://arxiv.org/abs/2611.06817](http://arxiv.org/abs/2611.06817), Code: **[https://github.com/DAGroup-PKU/HumanNet/tree/Open-HumanWAM](https://github.com/DAGroup-PKU/HumanNet/tree/Open-HumanWAM)**
 - 2026-11-04, **Which Physical Tactile Cues Matter for Contact-Rich Imitation Learning? A Controlled Real-Robot Study**, Chenxi Xiao Team, Paper: [http://arxiv.org/abs/2611.06673](http://arxiv.org/abs/2611.06673)
 - 2026-11-04, **Interactive World Simulation with Cosmos for Physical AI**, Rick Zhuang Team, Paper: [http://arxiv.org/abs/2611.06627](http://arxiv.org/abs/2611.06627), Code: **[https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation](https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation)**
 - 2026-11-04, **Enhanced Imitation Learning of Model Predictive Control through Importance Weighting**, Tomislav Dragicevic Team, Paper: [http://arxiv.org/abs/2611.06622](http://arxiv.org/abs/2611.06622)
@@ -875,6 +883,13 @@
 
 ## VLM
 
+- 2026-11-05, **VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**, Zhiding Yu Team, Paper: [http://arxiv.org/abs/2611.08449](http://arxiv.org/abs/2611.08449)
+- 2026-11-05, **Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception**, Yasmin Fathy Team, Paper: [http://arxiv.org/abs/2611.08441](http://arxiv.org/abs/2611.08441)
+- 2026-11-05, **RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines**, Alessandra Russo Team, Paper: [http://arxiv.org/abs/2611.08308](http://arxiv.org/abs/2611.08308)
+- 2026-11-05, **Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling**, Ewa Szczurek Team, Paper: [http://arxiv.org/abs/2611.08185](http://arxiv.org/abs/2611.08185)
+- 2026-11-05, **ATHAAR: A Medieval Scientific Arabic Manuscript Dataset for Handwritten Text Recognition**, Nabil Hathout Team, Paper: [http://arxiv.org/abs/2611.08091](http://arxiv.org/abs/2611.08091)
+- 2026-11-05, **NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models**, Stavroula Georgia Mougiakakou Team, Paper: [http://arxiv.org/abs/2611.08054](http://arxiv.org/abs/2611.08054)
+- 2026-11-05, **HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness**, Jianyu Chen Team, Paper: [http://arxiv.org/abs/2611.08039](http://arxiv.org/abs/2611.08039), Code: **[https://hitch.axell.top/](https://hitch.axell.top/)**
 - 2026-11-05, **WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation**, Siyu Zhu Team, Paper: [http://arxiv.org/abs/2611.07939](http://arxiv.org/abs/2611.07939)
 - 2026-11-05, **PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion**, Yue Wang Team, Paper: [http://arxiv.org/abs/2611.07679](http://arxiv.org/abs/2611.07679)
 - 2026-11-05, **Egocentric Action Recognition with Objects and Vision-Language Affordances**, Jose Garcia-Rodriguez Team, Paper: [http://arxiv.org/abs/2611.07673](http://arxiv.org/abs/2611.07673)
@@ -2463,6 +2478,13 @@
 
 ## VLA
 
+- 2026-11-05, **OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions**, Roberto Martín-Martín Team, Paper: [http://arxiv.org/abs/2611.08462](http://arxiv.org/abs/2611.08462)
+- 2026-11-05, **VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**, Zhiding Yu Team, Paper: [http://arxiv.org/abs/2611.08449](http://arxiv.org/abs/2611.08449)
+- 2026-11-05, **Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**, Ufuk Topcu Team, Paper: [http://arxiv.org/abs/2611.08425](http://arxiv.org/abs/2611.08425), Code: **[https://vla-tug.github.io](https://vla-tug.github.io)**
+- 2026-11-05, **T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models**, Chaojian Li Team, Paper: [http://arxiv.org/abs/2611.08413](http://arxiv.org/abs/2611.08413)
+- 2026-11-05, **SLA: Scaling Spatial-Language-Action Model via Continual Pre-training**, Haoang Li Team, Paper: [http://arxiv.org/abs/2611.08373](http://arxiv.org/abs/2611.08373), Code: **[https://SLA.github.io/](https://SLA.github.io/)**
+- 2026-11-05, **La-JEPA: Compact Robot Policies with Latent World Modeling**, Yingxue Zhang Team, Paper: [http://arxiv.org/abs/2611.08156](http://arxiv.org/abs/2611.08156), Code: **[https://github.com/mt-clemente/lajepa](https://github.com/mt-clemente/lajepa)**
+- 2026-11-05, **Describe Your Facial Expressions by Linking Image Encoders and Large Language Models**, Shiguang Shan Team, Paper: [http://arxiv.org/abs/2611.08138](http://arxiv.org/abs/2611.08138)
 - 2026-11-05, **AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**, Dzmitry Tsetserukou Team, Paper: [http://arxiv.org/abs/2611.07712](http://arxiv.org/abs/2611.07712)
 - 2026-11-05, **Egocentric Action Recognition with Objects and Vision-Language Affordances**, Jose Garcia-Rodriguez Team, Paper: [http://arxiv.org/abs/2611.07673](http://arxiv.org/abs/2611.07673)
 - 2026-11-05, **Action-Conditioned VLM Monitoring for Autonomous Vehicle Semantic Anomalies**, Aliasghar Arab Team, Paper: [http://arxiv.org/abs/2611.07540](http://arxiv.org/abs/2611.07540)
@@ -3059,6 +3081,10 @@
 
 ## Humanoid
 
+- 2026-11-05, **Social Humanoid: Socially Responsive Human-Humanoid Interaction**, Angjoo Kanazawa Team, Paper: [http://arxiv.org/abs/2611.08407](http://arxiv.org/abs/2611.08407), Code: **[https://von31.github.io/social-humanoid/](https://von31.github.io/social-humanoid/)**
+- 2026-11-05, **STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion**, Wenhao Cui Team, Paper: [http://arxiv.org/abs/2611.08097](http://arxiv.org/abs/2611.08097)
+- 2026-11-05, **Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour**, Wenhao Cui Team, Paper: [http://arxiv.org/abs/2611.08056](http://arxiv.org/abs/2611.08056)
+- 2026-11-05, **HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness**, Jianyu Chen Team, Paper: [http://arxiv.org/abs/2611.08039](http://arxiv.org/abs/2611.08039), Code: **[https://hitch.axell.top/](https://hitch.axell.top/)**
 - 2026-11-05, **AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**, Dzmitry Tsetserukou Team, Paper: [http://arxiv.org/abs/2611.07712](http://arxiv.org/abs/2611.07712)
 - 2026-11-05, **PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion**, Yue Wang Team, Paper: [http://arxiv.org/abs/2611.07679](http://arxiv.org/abs/2611.07679)
 - 2026-11-05, **Whole-Body Elasto-Geometrical Calibration of Wheeled Humanoid Robots Using a Shared-Waist Dual-Chain Model**, Maoqing Yao Team, Paper: [http://arxiv.org/abs/2611.07560](http://arxiv.org/abs/2611.07560)
@@ -3288,6 +3314,7 @@
 
 ## Humanoid-Locomotion
 
+- 2026-11-05, **STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion**, Wenhao Cui Team, Paper: [http://arxiv.org/abs/2611.08097](http://arxiv.org/abs/2611.08097)
 - 2026-11-05, **PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion**, Yue Wang Team, Paper: [http://arxiv.org/abs/2611.07679](http://arxiv.org/abs/2611.07679)
 - 2026-11-03, **Contact-Implicit Whole-Body Trajectory Optimization for Dynamic Humanoid Locomotion on Parameterizable Uneven Terrain**, Daniele Pucci Team, Paper: [http://arxiv.org/abs/2611.05585](http://arxiv.org/abs/2611.05585)
 - 2026-11-03, **Online iLQR-MPC with Whole-Body Control for Robust Humanoid Locomotion**, Xinyi Yu Team, Paper: [http://arxiv.org/abs/2611.04204](http://arxiv.org/abs/2611.04204)
@@ -3546,6 +3573,7 @@
 
 ## Dexterous
 
+- 2026-11-05, **Latent RL Priors for Data-Efficient Dexterous Manipulation**, Son Tran Team, Paper: [http://arxiv.org/abs/2611.08458](http://arxiv.org/abs/2611.08458)
 - 2026-11-05, **TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**, Nathan F. Lepora Team, Paper: [http://arxiv.org/abs/2611.07881](http://arxiv.org/abs/2611.07881)
 - 2026-11-05, **AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**, Dzmitry Tsetserukou Team, Paper: [http://arxiv.org/abs/2611.07712](http://arxiv.org/abs/2611.07712)
 - 2026-11-04, **Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation**, Ji Pei Team, Paper: [http://arxiv.org/abs/2611.06724](http://arxiv.org/abs/2611.06724)
@@ -3759,6 +3787,9 @@
 
 ## LLM-for-Embodied-AI
 
+- 2026-11-05, **T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models**, Chaojian Li Team, Paper: [http://arxiv.org/abs/2611.08413](http://arxiv.org/abs/2611.08413)
+- 2026-11-05, **SCALE: Real-Time Latent Communication for Cyber-Physical Agents**, Ning Zhang Team, Paper: [http://arxiv.org/abs/2611.08390](http://arxiv.org/abs/2611.08390)
+- 2026-11-05, **RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines**, Alessandra Russo Team, Paper: [http://arxiv.org/abs/2611.08308](http://arxiv.org/abs/2611.08308)
 - 2026-11-05, **Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents**, Huizhi Liang Team, Paper: [http://arxiv.org/abs/2611.07825](http://arxiv.org/abs/2611.07825)
 - 2026-10-30, **A Multi-Modal Robotic Framework for Physical GUI Interaction Testing**, Davi Freitas Team, Paper: [http://arxiv.org/abs/2611.06939](http://arxiv.org/abs/2611.06939)
 - 2026-11-04, **VABAR: A Variational Automation Benchmark for Agentic Robotics**, Ken Goldberg Team, Paper: [http://arxiv.org/abs/2611.06881](http://arxiv.org/abs/2611.06881)

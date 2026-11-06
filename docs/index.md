@@ -9,12 +9,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions**|Roberto Martín-Martín Team|[2611.08462](http://arxiv.org/abs/2611.08462)|null|
+|**2026-11-05**|**SLA: Scaling Spatial-Language-Action Model via Continual Pre-training**|Haoang Li Team|[2611.08373](http://arxiv.org/abs/2611.08373)|**[link](https://SLA.github.io/)**|
+|**2026-11-05**|**MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation**|Roberto Martín-Martín Team|[2611.08372](http://arxiv.org/abs/2611.08372)|**[link](https://robin-lab.cs.utexas.edu/momasplat)**|
+|**2026-11-05**|**Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement**|Daquan Zhou Team|[2611.08318](http://arxiv.org/abs/2611.08318)|**[link](https://dagroup-pku.github.io/PyRUA-Lean/RSIJudge)**|
+|**2026-11-05**|**RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines**|Alessandra Russo Team|[2611.08308](http://arxiv.org/abs/2611.08308)|null|
+|**2026-11-05**|**Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation**|Laura A. Hallock Team|[2611.08295](http://arxiv.org/abs/2611.08295)|null|
+|**2026-11-05**|**Aligning Policy Encoders with a Shape Teacher**|Artem Moskalev Team|[2611.08275](http://arxiv.org/abs/2611.08275)|null|
+|**2026-11-05**|**Wireless Link Scheduling with Graph Signal Diffusion**|Alejandro Ribeiro Team|[2611.08274](http://arxiv.org/abs/2611.08274)|null|
 |**2026-11-05**|**Structure from Collision via Hypothesis-Space Reasoning**|Takuhiro Kaneko Team|[2611.07900](http://arxiv.org/abs/2611.07900)|**[link](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/sfc-hypothesis/)**|
 |**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Nathan F. Lepora Team|[2611.07881](http://arxiv.org/abs/2611.07881)|null|
 |**2026-11-05**|**Closed-Loop Physics-Based Manipulation Evaluation at a Commodity Price: What 4.4 L4 GPU hours at $3.50 Buys You**|Diana Rypkema Team|[2611.07441](http://arxiv.org/abs/2611.07441)|null|
 |**2026-11-05**|**VREgo: Consumer VR Headsets for Learning Robot Manipulation from Egocentric Demonstrations**|Liuchuan Yu Team|[2611.07272](http://arxiv.org/abs/2611.07272)|null|
 |**2026-11-04**|**Rethinking Self-Repair in Code-as-Policy Agents: What Drives Retry Success?**|Ayushman Singh Team|[2611.06863](http://arxiv.org/abs/2611.06863)|null|
-|**2026-11-04**|**Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**|Daquan Zhou Team|[2611.06817](http://arxiv.org/abs/2611.06817)|**[link](https://github.com/DAGroup-PKU/HumanNet/tree/open-humanscale)**|
+|**2026-11-05**|**Open-HumanWAM: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**|Daquan Zhou Team|[2611.06817](http://arxiv.org/abs/2611.06817)|**[link](https://github.com/DAGroup-PKU/HumanNet/tree/Open-HumanWAM)**|
 |**2026-11-04**|**Which Physical Tactile Cues Matter for Contact-Rich Imitation Learning? A Controlled Real-Robot Study**|Chenxi Xiao Team|[2611.06673](http://arxiv.org/abs/2611.06673)|null|
 |**2026-11-04**|**Interactive World Simulation with Cosmos for Physical AI**|Rick Zhuang Team|[2611.06627](http://arxiv.org/abs/2611.06627)|**[link](https://research.nvidia.com/labs/cosmos-lab/cosmos-simulation)**|
 |**2026-11-04**|**Enhanced Imitation Learning of Model Predictive Control through Importance Weighting**|Tomislav Dragicevic Team|[2611.06622](http://arxiv.org/abs/2611.06622)|null|
@@ -2596,6 +2604,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Zhiding Yu Team|[2611.08449](http://arxiv.org/abs/2611.08449)|null|
+|**2026-11-05**|**Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception**|Yasmin Fathy Team|[2611.08441](http://arxiv.org/abs/2611.08441)|null|
+|**2026-11-05**|**RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines**|Alessandra Russo Team|[2611.08308](http://arxiv.org/abs/2611.08308)|null|
+|**2026-11-05**|**Multimodal Hierarchical Mixture-of-Experts for 3D Medical Vision-Language Modeling**|Ewa Szczurek Team|[2611.08185](http://arxiv.org/abs/2611.08185)|null|
+|**2026-11-05**|**ATHAAR: A Medieval Scientific Arabic Manuscript Dataset for Handwritten Text Recognition**|Nabil Hathout Team|[2611.08091](http://arxiv.org/abs/2611.08091)|null|
+|**2026-11-05**|**NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models**|Stavroula Georgia Mougiakakou Team|[2611.08054](http://arxiv.org/abs/2611.08054)|null|
+|**2026-11-05**|**HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness**|Jianyu Chen Team|[2611.08039](http://arxiv.org/abs/2611.08039)|**[link](https://hitch.axell.top/)**|
 |**2026-11-05**|**WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation**|Siyu Zhu Team|[2611.07939](http://arxiv.org/abs/2611.07939)|null|
 |**2026-11-05**|**PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion**|Yue Wang Team|[2611.07679](http://arxiv.org/abs/2611.07679)|null|
 |**2026-11-05**|**Egocentric Action Recognition with Objects and Vision-Language Affordances**|Jose Garcia-Rodriguez Team|[2611.07673](http://arxiv.org/abs/2611.07673)|null|
@@ -7043,6 +7058,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions**|Roberto Martín-Martín Team|[2611.08462](http://arxiv.org/abs/2611.08462)|null|
+|**2026-11-05**|**VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding**|Zhiding Yu Team|[2611.08449](http://arxiv.org/abs/2611.08449)|null|
+|**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Ufuk Topcu Team|[2611.08425](http://arxiv.org/abs/2611.08425)|**[link](https://vla-tug.github.io)**|
+|**2026-11-05**|**T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models**|Chaojian Li Team|[2611.08413](http://arxiv.org/abs/2611.08413)|null|
+|**2026-11-05**|**SLA: Scaling Spatial-Language-Action Model via Continual Pre-training**|Haoang Li Team|[2611.08373](http://arxiv.org/abs/2611.08373)|**[link](https://SLA.github.io/)**|
+|**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Yingxue Zhang Team|[2611.08156](http://arxiv.org/abs/2611.08156)|**[link](https://github.com/mt-clemente/lajepa)**|
+|**2026-11-05**|**Describe Your Facial Expressions by Linking Image Encoders and Large Language Models**|Shiguang Shan Team|[2611.08138](http://arxiv.org/abs/2611.08138)|null|
 |**2026-11-05**|**AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**|Dzmitry Tsetserukou Team|[2611.07712](http://arxiv.org/abs/2611.07712)|null|
 |**2026-11-05**|**Egocentric Action Recognition with Objects and Vision-Language Affordances**|Jose Garcia-Rodriguez Team|[2611.07673](http://arxiv.org/abs/2611.07673)|null|
 |**2026-11-05**|**Action-Conditioned VLM Monitoring for Autonomous Vehicle Semantic Anomalies**|Aliasghar Arab Team|[2611.07540](http://arxiv.org/abs/2611.07540)|null|
@@ -8262,6 +8284,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Social Humanoid: Socially Responsive Human-Humanoid Interaction**|Angjoo Kanazawa Team|[2611.08407](http://arxiv.org/abs/2611.08407)|**[link](https://von31.github.io/social-humanoid/)**|
+|**2026-11-05**|**STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion**|Wenhao Cui Team|[2611.08097](http://arxiv.org/abs/2611.08097)|null|
+|**2026-11-05**|**Terrain-Indexed Motion Priors and Geometric Support for Extreme Humanoid Parkour**|Wenhao Cui Team|[2611.08056](http://arxiv.org/abs/2611.08056)|null|
+|**2026-11-05**|**HITCH: Teaching a Vision-Language Model to Operate a Humanoid through a Whole-Body Harness**|Jianyu Chen Team|[2611.08039](http://arxiv.org/abs/2611.08039)|**[link](https://hitch.axell.top/)**|
 |**2026-11-05**|**AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**|Dzmitry Tsetserukou Team|[2611.07712](http://arxiv.org/abs/2611.07712)|null|
 |**2026-11-05**|**PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion**|Yue Wang Team|[2611.07679](http://arxiv.org/abs/2611.07679)|null|
 |**2026-11-05**|**Whole-Body Elasto-Geometrical Calibration of Wheeled Humanoid Robots Using a Shared-Waist Dual-Chain Model**|Maoqing Yao Team|[2611.07560](http://arxiv.org/abs/2611.07560)|null|
@@ -8813,6 +8839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Latent RL Priors for Data-Efficient Dexterous Manipulation**|Son Tran Team|[2611.08458](http://arxiv.org/abs/2611.08458)|null|
 |**2026-11-05**|**TactileLab: Sim-to-Real Dexterous Robot Manipulation with Efficient Shear-Sensitive Tactile Simulation**|Nathan F. Lepora Team|[2611.07881](http://arxiv.org/abs/2611.07881)|null|
 |**2026-11-05**|**AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction**|Dzmitry Tsetserukou Team|[2611.07712](http://arxiv.org/abs/2611.07712)|null|
 |**2026-11-04**|**Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation**|Ji Pei Team|[2611.06724](http://arxiv.org/abs/2611.06724)|null|
@@ -9198,6 +9225,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion**|Wenhao Cui Team|[2611.08097](http://arxiv.org/abs/2611.08097)|null|
 |**2026-11-05**|**PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion**|Yue Wang Team|[2611.07679](http://arxiv.org/abs/2611.07679)|null|
 |**2026-11-03**|**Contact-Implicit Whole-Body Trajectory Optimization for Dynamic Humanoid Locomotion on Parameterizable Uneven Terrain**|Daniele Pucci Team|[2611.05585](http://arxiv.org/abs/2611.05585)|null|
 |**2026-11-03**|**Online iLQR-MPC with Whole-Body Control for Robust Humanoid Locomotion**|Xinyi Yu Team|[2611.04204](http://arxiv.org/abs/2611.04204)|null|
@@ -9492,6 +9520,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models**|Chaojian Li Team|[2611.08413](http://arxiv.org/abs/2611.08413)|null|
+|**2026-11-05**|**SCALE: Real-Time Latent Communication for Cyber-Physical Agents**|Ning Zhang Team|[2611.08390](http://arxiv.org/abs/2611.08390)|null|
+|**2026-11-05**|**RM-VLM: From Natural-Language Task Descriptions to Vision-Grounded Reward Machines**|Alessandra Russo Team|[2611.08308](http://arxiv.org/abs/2611.08308)|null|
 |**2026-11-05**|**Generate-then-Rank: Learning Symbolic Goal Interpretation for Embodied Agents**|Huizhi Liang Team|[2611.07825](http://arxiv.org/abs/2611.07825)|null|
 |**2026-10-30**|**A Multi-Modal Robotic Framework for Physical GUI Interaction Testing**|Davi Freitas Team|[2611.06939](http://arxiv.org/abs/2611.06939)|null|
 |**2026-11-04**|**VABAR: A Variational Automation Benchmark for Agentic Robotics**|Ken Goldberg Team|[2611.06881](http://arxiv.org/abs/2611.06881)|null|
