@@ -20,6 +20,7 @@
 
 ## Manipulation
 
+- 2026-11-06, **On Agentic Manipulation Policies**, Vladlen Koltun Team, Paper: [http://arxiv.org/abs/2611.09892](http://arxiv.org/abs/2611.09892), Code: **[https://apple-aiml-research.github.io/ml-amp/](https://apple-aiml-research.github.io/ml-amp/)**
 - 2026-11-06, **DexDICE: Reconciling Safety and Performance via Dual-Expert Offline Imitation Learning**, Kee-Eung Kim Team, Paper: [http://arxiv.org/abs/2611.09433](http://arxiv.org/abs/2611.09433), Code: **[https://github.com/tzs930/dexdice](https://github.com/tzs930/dexdice)**
 - 2026-11-06, **Mitigating Covariate Shift in Behavioral Cloning via Robust Stationary Distribution Correction**, Kee-Eung Kim Team, Paper: [http://arxiv.org/abs/2611.09371](http://arxiv.org/abs/2611.09371), Code: **[https://github.com/tzs930/drildice](https://github.com/tzs930/drildice)**
 - 2026-11-06, **MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning**, Dmitry Berenson Team, Paper: [http://arxiv.org/abs/2611.09293](http://arxiv.org/abs/2611.09293)
@@ -889,6 +890,8 @@
 
 ## VLM
 
+- 2026-11-06, **Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation**, Mingkun Xu Team, Paper: [http://arxiv.org/abs/2611.09794](http://arxiv.org/abs/2611.09794)
+- 2026-11-06, **Decoupled Mode Connectivity for Base-to-Novel Generalization in Vision-Language Models**, Stéphane Lathuilière Team, Paper: [http://arxiv.org/abs/2611.09655](http://arxiv.org/abs/2611.09655), Code: **[https://iemprog.github.io/DMC/](https://iemprog.github.io/DMC/)**
 - 2026-11-06, **SPSC: Zero-Shot Cross-Subject EEG-to-Image Reconstruction via Semantic Preservation and Subspace Calibration**, Zhicheng Zhao Team, Paper: [http://arxiv.org/abs/2611.09380](http://arxiv.org/abs/2611.09380)
 - 2026-11-06, **Learning When to Think: Dual-Reference Offline Optimization for Adaptive VLM Reasoning**, Yao Shu Team, Paper: [http://arxiv.org/abs/2611.09154](http://arxiv.org/abs/2611.09154)
 - 2026-11-06, **PathXAI: Evidence-guided structured pathology reporting by transferable tissue segmentation**, Weimiao Yu Team, Paper: [http://arxiv.org/abs/2611.09117](http://arxiv.org/abs/2611.09117)
@@ -2495,6 +2498,10 @@
 
 ## VLA
 
+- 2026-11-06, **On Agentic Manipulation Policies**, Vladlen Koltun Team, Paper: [http://arxiv.org/abs/2611.09892](http://arxiv.org/abs/2611.09892), Code: **[https://apple-aiml-research.github.io/ml-amp/](https://apple-aiml-research.github.io/ml-amp/)**
+- 2026-11-06, **Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation**, Mingkun Xu Team, Paper: [http://arxiv.org/abs/2611.09794](http://arxiv.org/abs/2611.09794)
+- 2026-11-06, **SURE:Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning**, Haoqian Wang Team, Paper: [http://arxiv.org/abs/2611.09684](http://arxiv.org/abs/2611.09684)
+- 2026-11-06, **ODEAction: From Predicting Chunks to Evolving Actions**, Cheng Chi Team, Paper: [http://arxiv.org/abs/2611.09672](http://arxiv.org/abs/2611.09672)
 - 2026-11-06, **HiMEM: Hippocampus-Inspired Memory Consolidation, Pruning, and Composition for Vision-Language-Action Models in 3D Scenes**, Pengju Ren Team, Paper: [http://arxiv.org/abs/2611.09355](http://arxiv.org/abs/2611.09355)
 - 2026-11-06, **Toward the Era of Agentic Embodied Intelligence**, Zhipeng Zhang Team, Paper: [http://arxiv.org/abs/2611.09124](http://arxiv.org/abs/2611.09124)
 - 2026-11-06, **DobotTrack: Target-Grounded Vision-Language-Action Learning for Embodied Person Tracking**, Teng Wang Team, Paper: [http://arxiv.org/abs/2611.09041](http://arxiv.org/abs/2611.09041)
@@ -3110,6 +3117,7 @@
 
 ## Humanoid
 
+- 2026-11-06, **DKWBC: Decoupling Motion Tracking and Balancing for Humanoid Whole-Body Control**, Xiaowei Zhou Team, Paper: [http://arxiv.org/abs/2611.09605](http://arxiv.org/abs/2611.09605)
 - 2026-11-06, **SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References**, Hao Dong Team, Paper: [http://arxiv.org/abs/2611.09266](http://arxiv.org/abs/2611.09266), Code: **[https://tianshuwu.github.io/sugarv2-humanoid/](https://tianshuwu.github.io/sugarv2-humanoid/)**
 - 2026-11-06, **STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**, Jan Peters Team, Paper: [http://arxiv.org/abs/2611.08857](http://arxiv.org/abs/2611.08857)
 - 2026-11-05, **ForPC: Force-Aware Whole-Body Control for Precise Humanoid Cart Pushing**, Cheng Cheng Team, Paper: [http://arxiv.org/abs/2611.08664](http://arxiv.org/abs/2611.08664), Code: **[https://roboforpc.github.io/.](https://roboforpc.github.io/.)**

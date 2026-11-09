@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**On Agentic Manipulation Policies**|Vladlen Koltun Team|[2611.09892](http://arxiv.org/abs/2611.09892)|**[link](https://apple-aiml-research.github.io/ml-amp/)**|
 |**2026-11-06**|**DexDICE: Reconciling Safety and Performance via Dual-Expert Offline Imitation Learning**|Kee-Eung Kim Team|[2611.09433](http://arxiv.org/abs/2611.09433)|**[link](https://github.com/tzs930/dexdice)**|
 |**2026-11-06**|**Mitigating Covariate Shift in Behavioral Cloning via Robust Stationary Distribution Correction**|Kee-Eung Kim Team|[2611.09371](http://arxiv.org/abs/2611.09371)|**[link](https://github.com/tzs930/drildice)**|
 |**2026-11-06**|**MDF++: Visuo-Tactile World Action Model with End-to-end Representation Learning**|Dmitry Berenson Team|[2611.09293](http://arxiv.org/abs/2611.09293)|null|
@@ -2610,6 +2611,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation**|Mingkun Xu Team|[2611.09794](http://arxiv.org/abs/2611.09794)|null|
+|**2026-11-06**|**Decoupled Mode Connectivity for Base-to-Novel Generalization in Vision-Language Models**|Stéphane Lathuilière Team|[2611.09655](http://arxiv.org/abs/2611.09655)|**[link](https://iemprog.github.io/DMC/)**|
 |**2026-11-06**|**SPSC: Zero-Shot Cross-Subject EEG-to-Image Reconstruction via Semantic Preservation and Subspace Calibration**|Zhicheng Zhao Team|[2611.09380](http://arxiv.org/abs/2611.09380)|null|
 |**2026-11-06**|**Learning When to Think: Dual-Reference Offline Optimization for Adaptive VLM Reasoning**|Yao Shu Team|[2611.09154](http://arxiv.org/abs/2611.09154)|null|
 |**2026-11-06**|**PathXAI: Evidence-guided structured pathology reporting by transferable tissue segmentation**|Weimiao Yu Team|[2611.09117](http://arxiv.org/abs/2611.09117)|null|
@@ -7075,6 +7078,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**On Agentic Manipulation Policies**|Vladlen Koltun Team|[2611.09892](http://arxiv.org/abs/2611.09892)|**[link](https://apple-aiml-research.github.io/ml-amp/)**|
+|**2026-11-06**|**Seeing What Matters: Benchmarking Task-Conditioned Actionable Spatial Belief for Manipulation**|Mingkun Xu Team|[2611.09794](http://arxiv.org/abs/2611.09794)|null|
+|**2026-11-06**|**SURE:Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning**|Haoqian Wang Team|[2611.09684](http://arxiv.org/abs/2611.09684)|null|
+|**2026-11-06**|**ODEAction: From Predicting Chunks to Evolving Actions**|Cheng Chi Team|[2611.09672](http://arxiv.org/abs/2611.09672)|null|
 |**2026-11-06**|**HiMEM: Hippocampus-Inspired Memory Consolidation, Pruning, and Composition for Vision-Language-Action Models in 3D Scenes**|Pengju Ren Team|[2611.09355](http://arxiv.org/abs/2611.09355)|null|
 |**2026-11-06**|**Toward the Era of Agentic Embodied Intelligence**|Zhipeng Zhang Team|[2611.09124](http://arxiv.org/abs/2611.09124)|null|
 |**2026-11-06**|**DobotTrack: Target-Grounded Vision-Language-Action Learning for Embodied Person Tracking**|Teng Wang Team|[2611.09041](http://arxiv.org/abs/2611.09041)|null|
@@ -8313,6 +8320,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-06**|**DKWBC: Decoupling Motion Tracking and Balancing for Humanoid Whole-Body Control**|Xiaowei Zhou Team|[2611.09605](http://arxiv.org/abs/2611.09605)|null|
 |**2026-11-06**|**SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References**|Hao Dong Team|[2611.09266](http://arxiv.org/abs/2611.09266)|**[link](https://tianshuwu.github.io/sugarv2-humanoid/)**|
 |**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Jan Peters Team|[2611.08857](http://arxiv.org/abs/2611.08857)|null|
 |**2026-11-05**|**ForPC: Force-Aware Whole-Body Control for Precise Humanoid Cart Pushing**|Cheng Cheng Team|[2611.08664](http://arxiv.org/abs/2611.08664)|**[link](https://roboforpc.github.io/.)**|
