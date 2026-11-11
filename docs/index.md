@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Anjana Yodaiken Team|[2611.14432](http://arxiv.org/abs/2611.14432)|**[link](https://github.com/Robot-Learning-Collective/behavior-1k-solution-2026)**|
+|**2026-11-10**|**OnlyAct: Extracting Action Representations from Foundation Models for World Models**|Tomas Jakab Team|[2611.14420](http://arxiv.org/abs/2611.14420)|null|
+|**2026-11-10**|**Model-Free Runtime Measurement of Task-Relevant Information**|Weisi Guo Team|[2611.14111](http://arxiv.org/abs/2611.14111)|null|
 |**2026-11-10**|**LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning**|Shanghang Zhang Team|[2611.14048](http://arxiv.org/abs/2611.14048)|null|
 |**2026-11-10**|**Camera equalisation of an 11.5x drop in environmental illuminance: four imitation-learning policies on an SO-101 arm**|Simon Cowling Team|[2611.13810](http://arxiv.org/abs/2611.13810)|**[link](https://huggingface.co/datasets/fysical/so101-lighting-autoexposure)**|
 |**2026-11-10**|**Ego Guidance: Enhancing Robot Policy Learning with Action-Free Human Egocentric Videos**|Shanghang Zhang Team|[2611.13685](http://arxiv.org/abs/2611.13685)|**[link](https://llong-cs.github.io/EgoGuidance)**|
@@ -2650,6 +2653,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**C $^2$ -Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference**|Qinyu Chen Team|[2611.14469](http://arxiv.org/abs/2611.14469)|null|
+|**2026-11-10**|**Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection**|Borut Batagelj Team|[2611.14436](http://arxiv.org/abs/2611.14436)|null|
+|**2026-11-10**|**Sckwoky at SHROOM-Visions: Character-Level Hallucination-Span Detection in Image-Conditioned VLMs via Dual-Prompted LoRA Decoders**|Ivan Bondarenko Team|[2611.14100](http://arxiv.org/abs/2611.14100)|null|
+|**2026-11-10**|**ZoomGain: Mining Global-to-Zoom Perception Gaps for Fine-Grained Visual Supervision**|Jianwei Yin Team|[2611.14076](http://arxiv.org/abs/2611.14076)|**[link](https://github.com/inclusionAI/ZoomGain)**|
 |**2026-11-10**|**Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3**|Zijian Chen Team|[2611.14060](http://arxiv.org/abs/2611.14060)|**[link](https://github.com/chen4study-hub/where-vlms-get-left-right)**|
 |**2026-11-10**|**From Show Programs to Linked Data**|Jeanne Fras Team|[2611.14037](http://arxiv.org/abs/2611.14037)|null|
 |**2026-11-10**|**Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models**|Jia Jia Team|[2611.13997](http://arxiv.org/abs/2611.13997)|null|
@@ -7170,6 +7177,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies**|Bo An Team|[2611.14488](http://arxiv.org/abs/2611.14488)|null|
+|**2026-11-10**|**One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge**|Anjana Yodaiken Team|[2611.14432](http://arxiv.org/abs/2611.14432)|**[link](https://github.com/Robot-Learning-Collective/behavior-1k-solution-2026)**|
+|**2026-11-10**|**DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning**|Taku Komura Team|[2611.14092](http://arxiv.org/abs/2611.14092)|**[link](https://robbyant-research.github.io/DexSeed/)**|
 |**2026-11-10**|**A computational framework for understanding embodied plans**|Ilker Yildirim Team|[2611.13669](http://arxiv.org/abs/2611.13669)|null|
 |**2026-11-10**|**Towards Reliable VLM Judges: State-Conditional Invariance and Presentation-Aware Diagnostics**|Jian Di Team|[2611.13596](http://arxiv.org/abs/2611.13596)|**[link](https://xinyuw922-pixel.github.io/Towards-Reliable-VLM-Judge/)**|
 |**2026-11-09**|**How Much of Your VLA Is kNN**|Omar Moured Team|[2611.13160](http://arxiv.org/abs/2611.13160)|null|
@@ -8445,6 +8455,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Personalized Affective Perception via Continual Learning in Human-Agent Negotiation**|Catholijn Jonker Team|[2611.14247](http://arxiv.org/abs/2611.14247)|null|
 |**2026-11-10**|**RedirectMimic: Local Motion Content Redaction for Humanoid Whole-Body Control**|Xiaochuan Shi Team|[2611.14049](http://arxiv.org/abs/2611.14049)|**[link](https://xiaopeng-whu.github.io/RedirectMimic/)**|
 |**2026-11-10**|**ReACT: Reflection-Consistent Modulation and Cross-Load Consistency for Humanoid Velocity Tracking Under Asymmetric Loads**|Wei Zhang Team|[2611.13929](http://arxiv.org/abs/2611.13929)|null|
 |**2026-11-10**|**FAME-QP: A GPU-Accelerated Quadratic-Programming Solver for Real-Time Model Predictive Control**|Stephanie Stockar Team|[2611.13766](http://arxiv.org/abs/2611.13766)|null|
@@ -9021,6 +9032,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning**|Taku Komura Team|[2611.14092](http://arxiv.org/abs/2611.14092)|**[link](https://robbyant-research.github.io/DexSeed/)**|
 |**2026-11-10**|**LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning**|Shanghang Zhang Team|[2611.14048](http://arxiv.org/abs/2611.14048)|null|
 |**2026-11-10**|**Softness is something you also need! Why compliance helps control: information metrics of a passive walker with compliant ankle**|Enrica Zereik Team|[2611.13779](http://arxiv.org/abs/2611.13779)|null|
 |**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Wei Ning Team|[2611.12806](http://arxiv.org/abs/2611.12806)|null|
@@ -9425,6 +9437,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Koopman Model-Based Reinforcement Learning**|Shaoshuai Mou Team|[2611.14186](http://arxiv.org/abs/2611.14186)|null|
 |**2026-11-06**|**STRIDE: Learning Humanoid Locomotion in Minutes with Acceleration-Based Rewards**|Jan Peters Team|[2611.08857](http://arxiv.org/abs/2611.08857)|null|
 |**2026-11-05**|**STEP: Spatiotemporal Training with Explicit Prediction for Perceptive Humanoid Locomotion**|Wenhao Cui Team|[2611.08097](http://arxiv.org/abs/2611.08097)|null|
 |**2026-11-05**|**PhySA: Decoupling Aesthetic and Physical Rewards for Humanoid Locomotion**|Yue Wang Team|[2611.07679](http://arxiv.org/abs/2611.07679)|null|
