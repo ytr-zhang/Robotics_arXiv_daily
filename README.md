@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Imitation Bootstrapped Multi-Agent Reinforcement Learning**|Daniel S. Brown Team|[2611.18543](http://arxiv.org/abs/2611.18543)|**[link](https://zhanghutony.github.io/ibmarl/.)**|
+|**2026-11-13**|**When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners**|Matyas Szanto Team|[2611.18491](http://arxiv.org/abs/2611.18491)|**[link](https://github.com/mkhoshnam/Selfplay-PPO-handover)**|
 |**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Yifan Zhu Team|[2611.18298](http://arxiv.org/abs/2611.18298)|**[link](https://zihaolu001.github.io/oap-project/)**|
 |**2026-11-13**|**Atlas-DeePC: Learning Behavioral Atlases for Predictive Control**|Jeremy Coulson Team|[2611.18266](http://arxiv.org/abs/2611.18266)|null|
 |**2026-11-13**|**Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models**|Yong-Jin Liu Team|[2611.17775](http://arxiv.org/abs/2611.17775)|null|
@@ -2701,6 +2703,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**MMFlash: Faster Speculative Decoding for Vision-Language Models**|Xinchao Wang Team|[2611.18482](http://arxiv.org/abs/2611.18482)|**[link](https://fscdc.github.io/MMFlash/})**|
 |**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Soran Parsa Team|[2611.18372](http://arxiv.org/abs/2611.18372)|null|
 |**2026-11-13**|**VLAN: Vision-Language Accessible Navigation**|Jiaming Zhang Team|[2611.18346](http://arxiv.org/abs/2611.18346)|**[link](https://github.com/InSAI-Lab/VLAN)**|
 |**2026-11-13**|**Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**|Yifan Zhu Team|[2611.18298](http://arxiv.org/abs/2611.18298)|**[link](https://zihaolu001.github.io/oap-project/)**|
@@ -7279,6 +7282,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**Training Reasoning Models in Simulation to Natively Use Real Robots**|Song Han Team|[2611.18562](http://arxiv.org/abs/2611.18562)|null|
 |**2026-11-13**|**Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent**|Shaoqing Ren Team|[2611.18397](http://arxiv.org/abs/2611.18397)|null|
 |**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Soran Parsa Team|[2611.18372](http://arxiv.org/abs/2611.18372)|null|
 |**2026-11-13**|**VLAN: Vision-Language Accessible Navigation**|Jiaming Zhang Team|[2611.18346](http://arxiv.org/abs/2611.18346)|**[link](https://github.com/InSAI-Lab/VLAN)**|
@@ -8585,6 +8589,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-13**|**When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners**|Matyas Szanto Team|[2611.18491](http://arxiv.org/abs/2611.18491)|**[link](https://github.com/mkhoshnam/Selfplay-PPO-handover)**|
 |**2026-11-13**|**Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**|Soran Parsa Team|[2611.18372](http://arxiv.org/abs/2611.18372)|null|
 |**2026-11-13**|**VLAN: Vision-Language Accessible Navigation**|Jiaming Zhang Team|[2611.18346](http://arxiv.org/abs/2611.18346)|**[link](https://github.com/InSAI-Lab/VLAN)**|
 |**2026-11-13**|**PoliMop: Policy-in-the-Loop Motion Planning in 3D Spaces for Mobile Robots**|Stelian Coros Team|[2611.18110](http://arxiv.org/abs/2611.18110)|**[link](https://ariael21.github.io/polimop.html)**|

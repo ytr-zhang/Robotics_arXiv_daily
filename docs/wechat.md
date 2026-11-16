@@ -20,6 +20,8 @@
 
 ## Manipulation
 
+- 2026-11-13, **Imitation Bootstrapped Multi-Agent Reinforcement Learning**, Daniel S. Brown Team, Paper: [http://arxiv.org/abs/2611.18543](http://arxiv.org/abs/2611.18543), Code: **[https://zhanghutony.github.io/ibmarl/.](https://zhanghutony.github.io/ibmarl/.)**
+- 2026-11-13, **When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners**, Matyas Szanto Team, Paper: [http://arxiv.org/abs/2611.18491](http://arxiv.org/abs/2611.18491), Code: **[https://github.com/mkhoshnam/Selfplay-PPO-handover](https://github.com/mkhoshnam/Selfplay-PPO-handover)**
 - 2026-11-13, **Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**, Yifan Zhu Team, Paper: [http://arxiv.org/abs/2611.18298](http://arxiv.org/abs/2611.18298), Code: **[https://zihaolu001.github.io/oap-project/](https://zihaolu001.github.io/oap-project/)**
 - 2026-11-13, **Atlas-DeePC: Learning Behavioral Atlases for Predictive Control**, Jeremy Coulson Team, Paper: [http://arxiv.org/abs/2611.18266](http://arxiv.org/abs/2611.18266)
 - 2026-11-13, **Beyond Prediction Gain: LASR as a Metric for Action-Grounded Latents in World Models**, Yong-Jin Liu Team, Paper: [http://arxiv.org/abs/2611.17775](http://arxiv.org/abs/2611.17775)
@@ -965,6 +967,7 @@
 
 ## VLM
 
+- 2026-11-13, **MMFlash: Faster Speculative Decoding for Vision-Language Models**, Xinchao Wang Team, Paper: [http://arxiv.org/abs/2611.18482](http://arxiv.org/abs/2611.18482), Code: **[https://fscdc.github.io/MMFlash/}](https://fscdc.github.io/MMFlash/})**
 - 2026-11-13, **Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**, Soran Parsa Team, Paper: [http://arxiv.org/abs/2611.18372](http://arxiv.org/abs/2611.18372)
 - 2026-11-13, **VLAN: Vision-Language Accessible Navigation**, Jiaming Zhang Team, Paper: [http://arxiv.org/abs/2611.18346](http://arxiv.org/abs/2611.18346), Code: **[https://github.com/InSAI-Lab/VLAN](https://github.com/InSAI-Lab/VLAN)**
 - 2026-11-13, **Objectives as Policies: Vision-Language Model Cost Programs for Contact-Rich Manipulation**, Yifan Zhu Team, Paper: [http://arxiv.org/abs/2611.18298](http://arxiv.org/abs/2611.18298), Code: **[https://zihaolu001.github.io/oap-project/](https://zihaolu001.github.io/oap-project/)**
@@ -2682,6 +2685,7 @@
 
 ## VLA
 
+- 2026-11-13, **Training Reasoning Models in Simulation to Natively Use Real Robots**, Song Han Team, Paper: [http://arxiv.org/abs/2611.18562](http://arxiv.org/abs/2611.18562)
 - 2026-11-13, **Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent**, Shaoqing Ren Team, Paper: [http://arxiv.org/abs/2611.18397](http://arxiv.org/abs/2611.18397)
 - 2026-11-13, **Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**, Soran Parsa Team, Paper: [http://arxiv.org/abs/2611.18372](http://arxiv.org/abs/2611.18372)
 - 2026-11-13, **VLAN: Vision-Language Accessible Navigation**, Jiaming Zhang Team, Paper: [http://arxiv.org/abs/2611.18346](http://arxiv.org/abs/2611.18346), Code: **[https://github.com/InSAI-Lab/VLAN](https://github.com/InSAI-Lab/VLAN)**
@@ -3363,6 +3367,7 @@
 
 ## Humanoid
 
+- 2026-11-13, **When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners**, Matyas Szanto Team, Paper: [http://arxiv.org/abs/2611.18491](http://arxiv.org/abs/2611.18491), Code: **[https://github.com/mkhoshnam/Selfplay-PPO-handover](https://github.com/mkhoshnam/Selfplay-PPO-handover)**
 - 2026-11-13, **Vision-Language-Action Models: A Life-Cycle Survey of Design, Training and Deployment**, Soran Parsa Team, Paper: [http://arxiv.org/abs/2611.18372](http://arxiv.org/abs/2611.18372)
 - 2026-11-13, **VLAN: Vision-Language Accessible Navigation**, Jiaming Zhang Team, Paper: [http://arxiv.org/abs/2611.18346](http://arxiv.org/abs/2611.18346), Code: **[https://github.com/InSAI-Lab/VLAN](https://github.com/InSAI-Lab/VLAN)**
 - 2026-11-13, **PoliMop: Policy-in-the-Loop Motion Planning in 3D Spaces for Mobile Robots**, Stelian Coros Team, Paper: [http://arxiv.org/abs/2611.18110](http://arxiv.org/abs/2611.18110), Code: **[https://ariael21.github.io/polimop.html](https://ariael21.github.io/polimop.html)**
